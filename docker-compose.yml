@@ -1,0 +1,19 @@
+services:
+  kyc-api:
+    build: .
+    image: kyc-checker:latest
+    ports:
+      - "8000:8000"
+    environment:
+      # Auth API : décommente et change ces clés en production.
+      # KYC_API_KEYS: "change-me-secret-key"
+      # Clé maître du coffre chiffré (base64 de 32 octets) — sinon fichier .master.key.
+      # KYC_MASTER_KEY: "base64-32-bytes-here"
+      PYTHONUNBUFFERED: "1"
+    restart: unless-stopped
+    # Le traitement est in-memory : aucun volume de données monté.
+    # 2 Go de RAM recommandés (modèles OCR).
+    deploy:
+      resources:
+        limits:
+          memory: 2g

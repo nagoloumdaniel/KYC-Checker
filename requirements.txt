@@ -1,0 +1,3 @@
+# --- Cœur du moteur KYC (obligatoire, pure Python) ---
+# Parsing + validation des clés de contrôle MRZ (ICAO Doc 9303).
+mrz>=0.6,<1.0

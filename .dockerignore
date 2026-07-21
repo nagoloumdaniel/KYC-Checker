@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.git/
+.gitignore
+tests/
+samples/
+tessdata/
+*.pdf
+*.md
+_introspect.py
+_debug*.py
+.uvicorn_pid

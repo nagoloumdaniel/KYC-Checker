@@ -1,0 +1,2294 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "hmac",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hmac",
+        "description": "hmac",
+        "detail": "hmac",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "TD1CodeChecker",
+        "importPath": "mrz.checker.td1",
+        "description": "mrz.checker.td1",
+        "isExtraImport": true,
+        "detail": "mrz.checker.td1",
+        "documentation": {}
+    },
+    {
+        "label": "TD2CodeChecker",
+        "importPath": "mrz.checker.td2",
+        "description": "mrz.checker.td2",
+        "isExtraImport": true,
+        "detail": "mrz.checker.td2",
+        "documentation": {}
+    },
+    {
+        "label": "TD3CodeChecker",
+        "importPath": "mrz.checker.td3",
+        "description": "mrz.checker.td3",
+        "isExtraImport": true,
+        "detail": "mrz.checker.td3",
+        "documentation": {}
+    },
+    {
+        "label": "unicodedata",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unicodedata",
+        "description": "unicodedata",
+        "detail": "unicodedata",
+        "documentation": {}
+    },
+    {
+        "label": "IntEnum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "TD1CodeGenerator",
+        "importPath": "mrz.generator.td1",
+        "description": "mrz.generator.td1",
+        "isExtraImport": true,
+        "detail": "mrz.generator.td1",
+        "documentation": {}
+    },
+    {
+        "label": "TD2CodeGenerator",
+        "importPath": "mrz.generator.td2",
+        "description": "mrz.generator.td2",
+        "isExtraImport": true,
+        "detail": "mrz.generator.td2",
+        "documentation": {}
+    },
+    {
+        "label": "TD3CodeGenerator",
+        "importPath": "mrz.generator.td3",
+        "description": "mrz.generator.td3",
+        "isExtraImport": true,
+        "detail": "mrz.generator.td3",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "AESGCM",
+        "importPath": "cryptography.hazmat.primitives.ciphers.aead",
+        "description": "cryptography.hazmat.primitives.ciphers.aead",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.ciphers.aead",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "kyc.api",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "kyc.api",
+        "description": "kyc.api",
+        "detail": "kyc.api",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "kyc.api",
+        "description": "kyc.api",
+        "isExtraImport": true,
+        "detail": "kyc.api",
+        "documentation": {}
+    },
+    {
+        "label": "get_ocr_backend",
+        "importPath": "kyc.ocr",
+        "description": "kyc.ocr",
+        "isExtraImport": true,
+        "detail": "kyc.ocr",
+        "documentation": {}
+    },
+    {
+        "label": "get_ocr_backend",
+        "importPath": "kyc.ocr",
+        "description": "kyc.ocr",
+        "isExtraImport": true,
+        "detail": "kyc.ocr",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_passport",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "render_passport_image",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_passport",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_id_td1",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "render_passport_image",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "render_id_card_front",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "render_id_card_back",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_passport",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_id_td1",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_id_td2",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "tamper_first_check_digit",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "PUBLIC_SAMPLES",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_passport",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_id_td1",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_id_td2",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "tamper_first_check_digit",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_passport",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_passport",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_id_td1",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "render_passport_image",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "render_id_card_front",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "render_id_card_back",
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "isExtraImport": true,
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "match_faces",
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "isExtraImport": true,
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "YUNET_MODEL",
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "isExtraImport": true,
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "SFACE_MODEL",
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "isExtraImport": true,
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "_models_dir",
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "isExtraImport": true,
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "_models_dir",
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "isExtraImport": true,
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "YUNET_MODEL",
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "isExtraImport": true,
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "SFACE_MODEL",
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "isExtraImport": true,
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_image",
+        "importPath": "kyc.forensics",
+        "description": "kyc.forensics",
+        "isExtraImport": true,
+        "detail": "kyc.forensics",
+        "documentation": {}
+    },
+    {
+        "label": "verify_image",
+        "importPath": "kyc.pipeline",
+        "description": "kyc.pipeline",
+        "isExtraImport": true,
+        "detail": "kyc.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "verify_images",
+        "importPath": "kyc.pipeline",
+        "description": "kyc.pipeline",
+        "isExtraImport": true,
+        "detail": "kyc.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "verify_documents",
+        "importPath": "kyc.pipeline",
+        "description": "kyc.pipeline",
+        "isExtraImport": true,
+        "detail": "kyc.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "verify_from_mrz",
+        "importPath": "kyc.pipeline",
+        "description": "kyc.pipeline",
+        "isExtraImport": true,
+        "detail": "kyc.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "verify_from_mrz",
+        "importPath": "kyc.pipeline",
+        "description": "kyc.pipeline",
+        "isExtraImport": true,
+        "detail": "kyc.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "parse_td3",
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "isExtraImport": true,
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "parse_mrz",
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "isExtraImport": true,
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "extract_td3_lines",
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "isExtraImport": true,
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "expiry_status",
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "isExtraImport": true,
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "interpret_mrz_date",
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "isExtraImport": true,
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "kyc.config",
+        "description": "kyc.config",
+        "isExtraImport": true,
+        "detail": "kyc.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "kyc.config",
+        "description": "kyc.config",
+        "isExtraImport": true,
+        "detail": "kyc.config",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_name",
+        "importPath": "kyc.names",
+        "description": "kyc.names",
+        "isExtraImport": true,
+        "detail": "kyc.names",
+        "documentation": {}
+    },
+    {
+        "label": "name_similarity",
+        "importPath": "kyc.names",
+        "description": "kyc.names",
+        "isExtraImport": true,
+        "detail": "kyc.names",
+        "documentation": {}
+    },
+    {
+        "label": "match_name",
+        "importPath": "kyc.names",
+        "description": "kyc.names",
+        "isExtraImport": true,
+        "detail": "kyc.names",
+        "documentation": {}
+    },
+    {
+        "label": "Vault",
+        "importPath": "kyc.storage",
+        "description": "kyc.storage",
+        "isExtraImport": true,
+        "detail": "kyc.storage",
+        "documentation": {}
+    },
+    {
+        "label": "StorageConfig",
+        "importPath": "kyc.storage",
+        "description": "kyc.storage",
+        "isExtraImport": true,
+        "detail": "kyc.storage",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "kyc.storage",
+        "description": "kyc.storage",
+        "isExtraImport": true,
+        "detail": "kyc.storage",
+        "documentation": {}
+    },
+    {
+        "label": "Vault",
+        "importPath": "kyc.storage",
+        "description": "kyc.storage",
+        "isExtraImport": true,
+        "detail": "kyc.storage",
+        "documentation": {}
+    },
+    {
+        "label": "StorageConfig",
+        "importPath": "kyc.storage",
+        "description": "kyc.storage",
+        "isExtraImport": true,
+        "detail": "kyc.storage",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "MrzRequest",
+        "kind": 6,
+        "importPath": "kyc.api",
+        "description": "kyc.api",
+        "peekOfCode": "class MrzRequest(BaseModel):\n    mrz_text: str\n    name: str\n    ocr: str | None = None  # ignoré ici (pas d'image), présent pour symétrie\n@app.get(\"/health\")\ndef health():\n    ocr_available = False\n    ocr_detail = None\n    try:\n        from .ocr import get_ocr_backend",
+        "detail": "kyc.api",
+        "documentation": {}
+    },
+    {
+        "label": "require_api_key",
+        "kind": 2,
+        "importPath": "kyc.api",
+        "description": "kyc.api",
+        "peekOfCode": "def require_api_key(x_api_key: str | None = Header(None),\n                    authorization: str | None = Header(None)):\n    \"\"\"Dépendance : exige une clé valide si des clés sont configurées.\"\"\"\n    allowed = _allowed_keys()\n    if not allowed:\n        return  # auth désactivée (aucune clé configurée)\n    provided = _extract_key(x_api_key, authorization)\n    if provided and any(hmac.compare_digest(provided, k) for k in allowed):\n        return\n    raise HTTPException(status_code=401, detail=\"Clé d'API invalide ou absente.\")",
+        "detail": "kyc.api",
+        "documentation": {}
+    },
+    {
+        "label": "health",
+        "kind": 2,
+        "importPath": "kyc.api",
+        "description": "kyc.api",
+        "peekOfCode": "def health():\n    ocr_available = False\n    ocr_detail = None\n    try:\n        from .ocr import get_ocr_backend\n        backend = get_ocr_backend(\"auto\")\n        ocr_available, ocr_detail = True, backend.name\n    except Exception as exc:\n        ocr_detail = str(exc)\n    return {",
+        "detail": "kyc.api",
+        "documentation": {}
+    },
+    {
+        "label": "verify_mrz_endpoint",
+        "kind": 2,
+        "importPath": "kyc.api",
+        "description": "kyc.api",
+        "peekOfCode": "def verify_mrz_endpoint(req: MrzRequest):\n    \"\"\"Vérifie une pièce à partir d'un texte MRZ déjà extrait.\"\"\"\n    report = verify_from_mrz(req.mrz_text, req.name, Config())\n    return report.to_dict()\n@app.post(\"/verify\", dependencies=[Depends(require_api_key)])\nasync def verify_endpoint(\n    name: str = Form(..., description=\"Nom attendu (saisie formulaire)\"),\n    images: list[UploadFile] = File(..., description=\"1 à 2 images (recto/verso)\"),\n    selfie: UploadFile | None = File(None, description=\"Selfie (comparaison visage)\"),\n    ocr: str = Form(\"auto\"),",
+        "detail": "kyc.api",
+        "documentation": {}
+    },
+    {
+        "label": "search_records",
+        "kind": 2,
+        "importPath": "kyc.api",
+        "description": "kyc.api",
+        "peekOfCode": "def search_records(\n    name: str | None = Query(None),\n    document_number: str | None = Query(None),\n    registration_date: str | None = Query(None),\n    actor: str = Query(\"api\"),\n):\n    \"\"\"Recherche de dossiers archivés (métadonnées seules, sans PII en clair).\"\"\"\n    try:\n        rows = _get_vault().search(\n            name=name, document_number=document_number,",
+        "detail": "kyc.api",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "kyc.api",
+        "description": "kyc.api",
+        "peekOfCode": "app = FastAPI(\n    title=\"KYC Checker API\",\n    version=__version__,\n    description=\"Vérification de pièces d'identité (MRZ TD1/TD2/TD3) + nom.\",\n)\n# --------------------------------------------------------------------------- #\n# Authentification par clé d'API\n# --------------------------------------------------------------------------- #\ndef _allowed_keys() -> set[str]:\n    \"\"\"Clés autorisées (env KYC_API_KEYS, séparées par des virgules).",
+        "detail": "kyc.api",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_IMAGE_BYTES",
+        "kind": 5,
+        "importPath": "kyc.api",
+        "description": "kyc.api",
+        "peekOfCode": "MAX_IMAGE_BYTES = 8 * 1024 * 1024  # 8 Mo\nMAX_IMAGES = 2\n_vault = None\ndef _get_vault():\n    \"\"\"Coffre d'archivage (chargé paresseusement ; nécessite `cryptography`).\"\"\"\n    global _vault\n    if _vault is None:\n        from .storage import Vault, StorageConfig\n        root = os.environ.get(\"KYC_ARCHIVE_DIR\", \"archive\")\n        _vault = Vault(StorageConfig(root=root))",
+        "detail": "kyc.api",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_IMAGES",
+        "kind": 5,
+        "importPath": "kyc.api",
+        "description": "kyc.api",
+        "peekOfCode": "MAX_IMAGES = 2\n_vault = None\ndef _get_vault():\n    \"\"\"Coffre d'archivage (chargé paresseusement ; nécessite `cryptography`).\"\"\"\n    global _vault\n    if _vault is None:\n        from .storage import Vault, StorageConfig\n        root = os.environ.get(\"KYC_ARCHIVE_DIR\", \"archive\")\n        _vault = Vault(StorageConfig(root=root))\n    return _vault",
+        "detail": "kyc.api",
+        "documentation": {}
+    },
+    {
+        "label": "_vault",
+        "kind": 5,
+        "importPath": "kyc.api",
+        "description": "kyc.api",
+        "peekOfCode": "_vault = None\ndef _get_vault():\n    \"\"\"Coffre d'archivage (chargé paresseusement ; nécessite `cryptography`).\"\"\"\n    global _vault\n    if _vault is None:\n        from .storage import Vault, StorageConfig\n        root = os.environ.get(\"KYC_ARCHIVE_DIR\", \"archive\")\n        _vault = Vault(StorageConfig(root=root))\n    return _vault\nclass MrzRequest(BaseModel):",
+        "detail": "kyc.api",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "kind": 2,
+        "importPath": "kyc.cli",
+        "description": "kyc.cli",
+        "peekOfCode": "def render(report, as_json: bool):\n    if as_json:\n        print(json.dumps(report.to_dict(), ensure_ascii=False, indent=2))\n        return\n    r = report\n    mark = _STATUS_MARK.get(r.status, \"[ ]\")\n    line = \"=\" * 60\n    print(line)\n    print(f\" {mark} STATUT : {r.status_fr}    |    Score : {r.score}/100\")\n    print(line)",
+        "detail": "kyc.cli",
+        "documentation": {}
+    },
+    {
+        "label": "build_parser",
+        "kind": 2,
+        "importPath": "kyc.cli",
+        "description": "kyc.cli",
+        "peekOfCode": "def build_parser():\n    p = argparse.ArgumentParser(\n        prog=\"kyc\", description=\"KYC Checker — vérification passeport (MRZ TD3)\")\n    p.add_argument(\"--json\", action=\"store_true\", help=\"sortie JSON\")\n    sub = p.add_subparsers(dest=\"command\", required=True)\n    d = sub.add_parser(\"demo\", help=\"démonstration sur spécimen synthétique\")\n    d.add_argument(\"--tamper\", action=\"store_true\",\n                   help=\"falsifie une clé de contrôle\")\n    d.add_argument(\"--wrong-name\", action=\"store_true\",\n                   help=\"utilise un nom qui ne correspond pas\")",
+        "detail": "kyc.cli",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "kyc.cli",
+        "description": "kyc.cli",
+        "peekOfCode": "def main(argv=None):\n    _ensure_utf8()\n    parser = build_parser()\n    args = parser.parse_args(argv)\n    return args.func(args) or 0\nif __name__ == \"__main__\":\n    raise SystemExit(main())",
+        "detail": "kyc.cli",
+        "documentation": {}
+    },
+    {
+        "label": "_STATUS_MARK",
+        "kind": 5,
+        "importPath": "kyc.cli",
+        "description": "kyc.cli",
+        "peekOfCode": "_STATUS_MARK = {\"VALID\": \"[+]\", \"SUSPECT\": \"[?]\", \"REJECTED\": \"[-]\"}\ndef render(report, as_json: bool):\n    if as_json:\n        print(json.dumps(report.to_dict(), ensure_ascii=False, indent=2))\n        return\n    r = report\n    mark = _STATUS_MARK.get(r.status, \"[ ]\")\n    line = \"=\" * 60\n    print(line)\n    print(f\" {mark} STATUT : {r.status_fr}    |    Score : {r.score}/100\")",
+        "detail": "kyc.cli",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "kyc.config",
+        "description": "kyc.config",
+        "peekOfCode": "class Config:\n    # --- Matching de nom (similarité 0-100) ---\n    # >= name_match_threshold        -> MATCH\n    # >= name_partial_threshold      -> PARTIAL\n    # sinon                          -> NO_MATCH\n    name_match_threshold: float = 85.0\n    name_partial_threshold: float = 65.0\n    # --- Décision globale ---\n    # Score (0-100) au-dessus duquel un dossier *peut* être accepté.\n    accept_score: float = 85.0",
+        "detail": "kyc.config",
+        "documentation": {}
+    },
+    {
+        "label": "detect_faces",
+        "kind": 2,
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "peekOfCode": "def detect_faces(image) -> np.ndarray | None:\n    \"\"\"Retourne le tableau des visages détectés (Nx15) ou None.\"\"\"\n    img = _load_bgr(image)\n    h, w = img.shape[:2]\n    det = _get_detector()\n    det.setInputSize((w, h))\n    _, faces = det.detect(img)\n    return faces if faces is not None and len(faces) else None\ndef get_embedding(image) -> np.ndarray | None:\n    \"\"\"Embedding 128-D du plus grand visage, ou None si aucun visage.\"\"\"",
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "get_embedding",
+        "kind": 2,
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "peekOfCode": "def get_embedding(image) -> np.ndarray | None:\n    \"\"\"Embedding 128-D du plus grand visage, ou None si aucun visage.\"\"\"\n    img = _load_bgr(image)\n    faces = detect_faces(img)\n    if faces is None:\n        return None\n    # Plus grand visage (aire bbox = w*h).\n    face = max(faces, key=lambda f: float(f[2]) * float(f[3]))\n    rec = _get_recognizer()\n    aligned = rec.alignCrop(img, face)",
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "match_faces",
+        "kind": 2,
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "peekOfCode": "def match_faces(document_image, selfie_image,\n                cosine_threshold: float = DEFAULT_COSINE_THRESHOLD) -> dict:\n    \"\"\"Compare le visage de la pièce et celui du selfie.\n    Renvoie : { match: bool, score: float|None (cosinus), faces: {...},\n                threshold, error? }\n    \"\"\"\n    emb_doc = get_embedding(document_image)\n    emb_selfie = get_embedding(selfie_image)\n    faces = {\"document\": emb_doc is not None, \"selfie\": emb_selfie is not None}\n    if emb_doc is None or emb_selfie is None:",
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "YUNET_MODEL",
+        "kind": 5,
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "peekOfCode": "YUNET_MODEL = \"face_detection_yunet_2023mar.onnx\"\nSFACE_MODEL = \"face_recognition_sface_2021dec.onnx\"\n# Seuil cosinus recommandé par OpenCV pour « même personne » (SFace).\nDEFAULT_COSINE_THRESHOLD = 0.363\n_recognizer = None\n_detector = None\ndef _models_dir() -> str:\n    env = os.environ.get(\"KYC_MODELS_DIR\")\n    if env:\n        return env",
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "SFACE_MODEL",
+        "kind": 5,
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "peekOfCode": "SFACE_MODEL = \"face_recognition_sface_2021dec.onnx\"\n# Seuil cosinus recommandé par OpenCV pour « même personne » (SFace).\nDEFAULT_COSINE_THRESHOLD = 0.363\n_recognizer = None\n_detector = None\ndef _models_dir() -> str:\n    env = os.environ.get(\"KYC_MODELS_DIR\")\n    if env:\n        return env\n    return os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),",
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_COSINE_THRESHOLD",
+        "kind": 5,
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "peekOfCode": "DEFAULT_COSINE_THRESHOLD = 0.363\n_recognizer = None\n_detector = None\ndef _models_dir() -> str:\n    env = os.environ.get(\"KYC_MODELS_DIR\")\n    if env:\n        return env\n    return os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),\n                        \"models\")\ndef _model_path(name: str) -> str:",
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "_recognizer",
+        "kind": 5,
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "peekOfCode": "_recognizer = None\n_detector = None\ndef _models_dir() -> str:\n    env = os.environ.get(\"KYC_MODELS_DIR\")\n    if env:\n        return env\n    return os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),\n                        \"models\")\ndef _model_path(name: str) -> str:\n    path = os.path.join(_models_dir(), name)",
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "_detector",
+        "kind": 5,
+        "importPath": "kyc.face",
+        "description": "kyc.face",
+        "peekOfCode": "_detector = None\ndef _models_dir() -> str:\n    env = os.environ.get(\"KYC_MODELS_DIR\")\n    if env:\n        return env\n    return os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),\n                        \"models\")\ndef _model_path(name: str) -> str:\n    path = os.path.join(_models_dir(), name)\n    if not os.path.isfile(path):",
+        "detail": "kyc.face",
+        "documentation": {}
+    },
+    {
+        "label": "error_level_analysis",
+        "kind": 2,
+        "importPath": "kyc.forensics",
+        "description": "kyc.forensics",
+        "peekOfCode": "def error_level_analysis(img_bgr: np.ndarray, quality: int = 90):\n    \"\"\"Re-compresse en JPEG puis mesure l'écart : des zones modifiées\n    ressortent (niveaux d'erreur localement élevés).\"\"\"\n    ok, enc = cv2.imencode(\".jpg\", img_bgr, [cv2.IMWRITE_JPEG_QUALITY, quality])\n    if not ok:\n        return None\n    recompressed = cv2.imdecode(enc, cv2.IMREAD_COLOR)\n    diff = cv2.absdiff(img_bgr, recompressed)\n    return cv2.cvtColor(diff, cv2.COLOR_BGR2GRAY)\ndef analyze_image(source, quality: int = 90) -> dict:",
+        "detail": "kyc.forensics",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_image",
+        "kind": 2,
+        "importPath": "kyc.forensics",
+        "description": "kyc.forensics",
+        "peekOfCode": "def analyze_image(source, quality: int = 90) -> dict:\n    \"\"\"Analyse heuristique d'une image. Renvoie des métriques + drapeaux.\"\"\"\n    img = _load_bgr(source)\n    h, w = img.shape[:2]\n    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)\n    # Netteté (variance du Laplacien) : faible => flou.\n    blur_var = float(cv2.Laplacian(gray, cv2.CV_64F).var())\n    # Error Level Analysis.\n    ela = error_level_analysis(img, quality)\n    if ela is not None:",
+        "detail": "kyc.forensics",
+        "documentation": {}
+    },
+    {
+        "label": "locate_mrz_band",
+        "kind": 2,
+        "importPath": "kyc.imaging",
+        "description": "kyc.imaging",
+        "peekOfCode": "def locate_mrz_band(gray):\n    \"\"\"Retourne un recadrage (np.ndarray) de la bande MRZ, ou None.\n    Méthode morphologique : la MRZ est un bloc de texte sombre, large et bas\n    sur le document. On la fait ressortir puis on la referme en un rectangle.\n    \"\"\"\n    h, w = gray.shape[:2]\n    rect_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (25, 7))\n    sq_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (21, 21))\n    blurred = cv2.GaussianBlur(gray, (3, 3), 0)\n    blackhat = cv2.morphologyEx(blurred, cv2.MORPH_BLACKHAT, rect_kernel)",
+        "detail": "kyc.imaging",
+        "documentation": {}
+    },
+    {
+        "label": "image_to_mrz_text",
+        "kind": 2,
+        "importPath": "kyc.imaging",
+        "description": "kyc.imaging",
+        "peekOfCode": "def image_to_mrz_text(image_path: str, ocr_backend: str = \"auto\"):\n    \"\"\"Charge une image depuis un fichier et renvoie (texte_mrz, meta).\"\"\"\n    image = cv2.imread(image_path)\n    if image is None:\n        raise FileNotFoundError(f\"Image illisible : {image_path}\")\n    return _bgr_to_mrz_text(image, ocr_backend)\ndef image_bytes_to_mrz_text(data: bytes, ocr_backend: str = \"auto\"):\n    \"\"\"Décode une image EN MÉMOIRE (sans écriture disque) -> (texte_mrz, meta).\n    Utilisé par l'API pour respecter le principe RGPD du traitement in-memory.\n    \"\"\"",
+        "detail": "kyc.imaging",
+        "documentation": {}
+    },
+    {
+        "label": "image_bytes_to_mrz_text",
+        "kind": 2,
+        "importPath": "kyc.imaging",
+        "description": "kyc.imaging",
+        "peekOfCode": "def image_bytes_to_mrz_text(data: bytes, ocr_backend: str = \"auto\"):\n    \"\"\"Décode une image EN MÉMOIRE (sans écriture disque) -> (texte_mrz, meta).\n    Utilisé par l'API pour respecter le principe RGPD du traitement in-memory.\n    \"\"\"\n    arr = np.frombuffer(data, dtype=np.uint8)\n    image = cv2.imdecode(arr, cv2.IMREAD_COLOR)\n    if image is None:\n        raise ValueError(\"Données image illisibles ou format non supporté.\")\n    return _bgr_to_mrz_text(image, ocr_backend)\ndef _bgr_to_mrz_text(image, ocr_backend: str = \"auto\"):",
+        "detail": "kyc.imaging",
+        "documentation": {}
+    },
+    {
+        "label": "FormatSpec",
+        "kind": 6,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "class FormatSpec:\n    name: str\n    num_lines: int\n    line_len: int\n    checker_cls: type\n    hash_attrs: tuple          # clés de contrôle exposées par le checker\n    digit_pos: dict            # {index_ligne: [positions numériques]}\n    alpha_pos: dict            # {index_ligne: [positions alphabétiques]}\n_FORMATS = {\n    \"TD1\": FormatSpec(",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "MrzResult",
+        "kind": 6,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "class MrzResult:\n    parsed: bool                 # les lignes ont pu être lues/structurées\n    valid: bool                  # toutes les clés de contrôle sont valides\n    error: str | None\n    lines: tuple\n    fields: dict\n    check_digits: dict           # {nom_de_cle: bool}\n    format: str | None = None\n    @property\n    def invalid_check_digits(self) -> list[str]:",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "extract_mrz_lines",
+        "kind": 2,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "def extract_mrz_lines(raw_text: str) -> tuple[list[str] | None, str | None]:\n    \"\"\"Isole les lignes MRZ d'un texte OCR bruité et devine le format.\n    Retourne (lignes_normalisées, nom_format) ou (None, None).\n    \"\"\"\n    cands = [_clean_line(x) for x in raw_text.replace(\"\\r\", \"\").split(\"\\n\")]\n    cands = [c for c in cands if len(c) >= 25 and \"<\" in c]\n    if not cands:\n        return None, None\n    # Les longueurs (30 / 36 / 44) sont distinctes : pas de confusion possible.\n    for name, length, count in ((\"TD1\", 30, 3), (\"TD3\", 44, 2), (\"TD2\", 36, 2)):",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "extract_td3_lines",
+        "kind": 2,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "def extract_td3_lines(raw_text: str) -> str | None:\n    \"\"\"Compat : renvoie les 2 lignes TD3 jointes, ou None.\"\"\"\n    lines, fmt = extract_mrz_lines(raw_text)\n    if fmt == \"TD3\" and lines:\n        return \"\\n\".join(lines)\n    return None\n# --------------------------------------------------------------------------- #\n# Correction positionnelle (confusions OCR)\n# --------------------------------------------------------------------------- #\n_TO_DIGIT = {\"O\": \"0\", \"Q\": \"0\", \"D\": \"0\", \"I\": \"1\", \"L\": \"1\", \"Z\": \"2\",",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "parse_mrz",
+        "kind": 2,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "def parse_mrz(mrz_text: str, fmt: str | None = None,\n              autocorrect: bool = True) -> MrzResult:\n    \"\"\"Détecte le format puis valide la MRZ. N'émet jamais d'exception.\"\"\"\n    cleaned = [_clean_line(x) for x in mrz_text.strip().split(\"\\n\")]\n    cleaned = [c for c in cleaned if c]\n    if fmt is None:\n        fmt = _detect_format(cleaned)\n    if fmt is None or fmt not in _FORMATS:\n        return MrzResult(False, False, \"Format MRZ non reconnu\",\n                         tuple(cleaned), {}, {}, None)",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "parse_td3",
+        "kind": 2,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "def parse_td3(mrz_text: str, autocorrect: bool = True) -> MrzResult:\n    \"\"\"Compat : validation forcée au format TD3.\"\"\"\n    return parse_mrz(mrz_text, fmt=\"TD3\", autocorrect=autocorrect)\n# --------------------------------------------------------------------------- #\n# Dates MRZ (format YYMMDD) -> interprétation lisible + expiration\n# --------------------------------------------------------------------------- #\ndef interpret_mrz_date(yymmdd: str, kind: str, today: date | None = None) -> dict:\n    \"\"\"Convertit une date MRZ 'YYMMDD' en date ISO.\n    kind='birth'  : année interprétée comme passée (pivot = today).\n    kind='expiry' : année interprétée comme proche (fenêtre -50/+50 ans).",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "interpret_mrz_date",
+        "kind": 2,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "def interpret_mrz_date(yymmdd: str, kind: str, today: date | None = None) -> dict:\n    \"\"\"Convertit une date MRZ 'YYMMDD' en date ISO.\n    kind='birth'  : année interprétée comme passée (pivot = today).\n    kind='expiry' : année interprétée comme proche (fenêtre -50/+50 ans).\n    \"\"\"\n    today = today or date.today()\n    if not (yymmdd and len(yymmdd) == 6 and yymmdd.isdigit()):\n        return {\"raw\": yymmdd, \"iso\": None, \"valid\": False}\n    yy, mm, dd = int(yymmdd[:2]), int(yymmdd[2:4]), int(yymmdd[4:6])\n    cur_yy = today.year % 100",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "expiry_status",
+        "kind": 2,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "def expiry_status(expiry_yymmdd: str, today: date | None = None) -> dict:\n    today = today or date.today()\n    info = interpret_mrz_date(expiry_yymmdd, \"expiry\", today)\n    if not info[\"valid\"]:\n        return {\"date\": None, \"expired\": None, \"valid\": False}\n    expired = info[\"_date\"] < today\n    return {\"date\": info[\"iso\"], \"expired\": expired, \"valid\": True}",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "_VALID_CHARS",
+        "kind": 5,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "_VALID_CHARS = re.compile(r\"[A-Z0-9<]\")\n_FIELD_NAMES = [\n    \"surname\", \"name\", \"document_type\", \"country\", \"nationality\",\n    \"document_number\", \"birth_date\", \"expiry_date\", \"sex\",\n    \"optional_data\", \"optional_data_2\",\n]\n@dataclass(frozen=True)\nclass FormatSpec:\n    name: str\n    num_lines: int",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "_FIELD_NAMES",
+        "kind": 5,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "_FIELD_NAMES = [\n    \"surname\", \"name\", \"document_type\", \"country\", \"nationality\",\n    \"document_number\", \"birth_date\", \"expiry_date\", \"sex\",\n    \"optional_data\", \"optional_data_2\",\n]\n@dataclass(frozen=True)\nclass FormatSpec:\n    name: str\n    num_lines: int\n    line_len: int",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "_FORMATS",
+        "kind": 5,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "_FORMATS = {\n    \"TD1\": FormatSpec(\n        \"TD1\", 3, 30, TD1CodeChecker,\n        (\"document_number_hash\", \"birth_date_hash\", \"expiry_date_hash\",\n         \"final_hash\"),\n        digit_pos={0: [14],\n                   1: [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 29]},\n        alpha_pos={0: [0, 2, 3, 4], 1: [15, 16, 17], 2: list(range(30))},\n    ),\n    \"TD2\": FormatSpec(",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "_TO_DIGIT",
+        "kind": 5,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "_TO_DIGIT = {\"O\": \"0\", \"Q\": \"0\", \"D\": \"0\", \"I\": \"1\", \"L\": \"1\", \"Z\": \"2\",\n             \"S\": \"5\", \"B\": \"8\", \"G\": \"6\", \"T\": \"7\", \"A\": \"4\", \"J\": \"1\"}\n_TO_ALPHA = {\"0\": \"O\", \"1\": \"I\", \"2\": \"Z\", \"5\": \"S\", \"8\": \"B\", \"6\": \"G\",\n             \"4\": \"A\", \"7\": \"T\"}\ndef _force_digit(ch: str) -> str:\n    return ch if ch.isdigit() else _TO_DIGIT.get(ch, ch)\ndef _force_alpha(ch: str) -> str:\n    if ch == \"<\" or ch.isalpha():\n        return ch\n    return _TO_ALPHA.get(ch, ch)",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "_TO_ALPHA",
+        "kind": 5,
+        "importPath": "kyc.mrz_reader",
+        "description": "kyc.mrz_reader",
+        "peekOfCode": "_TO_ALPHA = {\"0\": \"O\", \"1\": \"I\", \"2\": \"Z\", \"5\": \"S\", \"8\": \"B\", \"6\": \"G\",\n             \"4\": \"A\", \"7\": \"T\"}\ndef _force_digit(ch: str) -> str:\n    return ch if ch.isdigit() else _TO_DIGIT.get(ch, ch)\ndef _force_alpha(ch: str) -> str:\n    if ch == \"<\" or ch.isalpha():\n        return ch\n    return _TO_ALPHA.get(ch, ch)\ndef _apply_correction(lines: list[str], spec: FormatSpec) -> list[str]:\n    out = []",
+        "detail": "kyc.mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_name",
+        "kind": 2,
+        "importPath": "kyc.names",
+        "description": "kyc.names",
+        "peekOfCode": "def normalize_name(value: str) -> str:\n    \"\"\"Met un nom sous forme canonique comparable : MAJUSCULES, sans accent,\n    lettres A-Z uniquement, espaces simples.\"\"\"\n    if not value:\n        return \"\"\n    out = []\n    for ch in value:\n        out.append(_TRANSLIT.get(ch, _TRANSLIT.get(ch.upper(), ch)))\n    s = \"\".join(out)\n    # Décompose puis retire les diacritiques combinants (é -> e, ñ -> n...).",
+        "detail": "kyc.names",
+        "documentation": {}
+    },
+    {
+        "label": "tokens",
+        "kind": 2,
+        "importPath": "kyc.names",
+        "description": "kyc.names",
+        "peekOfCode": "def tokens(value: str) -> list[str]:\n    norm = normalize_name(value)\n    return [t for t in norm.split(\" \") if t]\n# --------------------------------------------------------------------------- #\n# Similarité Jaro-Winkler (Python pur)\n# --------------------------------------------------------------------------- #\ndef _jaro(s1: str, s2: str) -> float:\n    if s1 == s2:\n        return 1.0\n    len1, len2 = len(s1), len(s2)",
+        "detail": "kyc.names",
+        "documentation": {}
+    },
+    {
+        "label": "jaro_winkler",
+        "kind": 2,
+        "importPath": "kyc.names",
+        "description": "kyc.names",
+        "peekOfCode": "def jaro_winkler(s1: str, s2: str, prefix_weight: float = 0.1,\n                 max_prefix: int = 4) -> float:\n    base = _jaro(s1, s2)\n    prefix = 0\n    for a, b in zip(s1, s2):\n        if a != b:\n            break\n        prefix += 1\n        if prefix == max_prefix:\n            break",
+        "detail": "kyc.names",
+        "documentation": {}
+    },
+    {
+        "label": "name_similarity",
+        "kind": 2,
+        "importPath": "kyc.names",
+        "description": "kyc.names",
+        "peekOfCode": "def name_similarity(expected: str, candidate: str) -> float:\n    \"\"\"Similarité 0.0-1.0 indépendante de l'ordre des tokens.\"\"\"\n    e_tokens, c_tokens = tokens(expected), tokens(candidate)\n    if not e_tokens or not c_tokens:\n        return 0.0\n    # token-sort : on trie les tokens des deux côtés avant de comparer.\n    sort_ratio = jaro_winkler(\" \".join(sorted(e_tokens)),\n                              \" \".join(sorted(c_tokens)))\n    # token-set : on isole l'intersection et les restes.\n    set_e, set_c = set(e_tokens), set(c_tokens)",
+        "detail": "kyc.names",
+        "documentation": {}
+    },
+    {
+        "label": "match_name",
+        "kind": 2,
+        "importPath": "kyc.names",
+        "description": "kyc.names",
+        "peekOfCode": "def match_name(expected: str, mrz_surname: str, mrz_given: str,\n               cfg) -> dict:\n    \"\"\"Compare un nom attendu (saisie formulaire) au nom de la MRZ.\n    Retourne un dict : score (0-100), label (MATCH/PARTIAL/NO_MATCH) et les\n    formes normalisées pour traçabilité.\n    \"\"\"\n    candidate = f\"{mrz_surname} {mrz_given}\".strip()\n    score = round(name_similarity(expected, candidate) * 100, 1)\n    if score >= cfg.name_match_threshold:\n        label = \"MATCH\"",
+        "detail": "kyc.names",
+        "documentation": {}
+    },
+    {
+        "label": "_TRANSLIT",
+        "kind": 5,
+        "importPath": "kyc.names",
+        "description": "kyc.names",
+        "peekOfCode": "_TRANSLIT = {\n    \"Ä\": \"AE\", \"Ö\": \"OE\", \"Ü\": \"UE\", \"ß\": \"SS\",\n    \"Ø\": \"OE\", \"Æ\": \"AE\", \"Œ\": \"OE\", \"Þ\": \"TH\",\n    \"Đ\": \"D\", \"Ð\": \"D\", \"Ł\": \"L\", \"Ĳ\": \"IJ\",\n}\ndef normalize_name(value: str) -> str:\n    \"\"\"Met un nom sous forme canonique comparable : MAJUSCULES, sans accent,\n    lettres A-Z uniquement, espaces simples.\"\"\"\n    if not value:\n        return \"\"",
+        "detail": "kyc.names",
+        "documentation": {}
+    },
+    {
+        "label": "ChipPayload",
+        "kind": 6,
+        "importPath": "kyc.nfc",
+        "description": "kyc.nfc",
+        "peekOfCode": "class ChipPayload:\n    \"\"\"Données transmises par le client NFC (mobile) au serveur.\"\"\"\n    sod_der: bytes                       # Document Security Object (DER)\n    data_groups: dict = field(default_factory=dict)  # {1: bytes(DG1), 2: bytes(DG2), ...}\n@dataclass\nclass PassiveAuthResult:\n    authentic: bool\n    ds_signature_valid: bool\n    csca_chain_valid: bool\n    data_group_hashes_valid: bool",
+        "detail": "kyc.nfc",
+        "documentation": {}
+    },
+    {
+        "label": "PassiveAuthResult",
+        "kind": 6,
+        "importPath": "kyc.nfc",
+        "description": "kyc.nfc",
+        "peekOfCode": "class PassiveAuthResult:\n    authentic: bool\n    ds_signature_valid: bool\n    csca_chain_valid: bool\n    data_group_hashes_valid: bool\n    issuer_country: str | None = None\n    details: list = field(default_factory=list)\ndef verify_passive_authentication(payload: ChipPayload,\n                                  csca_trust_store) -> PassiveAuthResult:\n    \"\"\"Vérifie l'authenticité de la puce (Passive Authentication).",
+        "detail": "kyc.nfc",
+        "documentation": {}
+    },
+    {
+        "label": "verify_passive_authentication",
+        "kind": 2,
+        "importPath": "kyc.nfc",
+        "description": "kyc.nfc",
+        "peekOfCode": "def verify_passive_authentication(payload: ChipPayload,\n                                  csca_trust_store) -> PassiveAuthResult:\n    \"\"\"Vérifie l'authenticité de la puce (Passive Authentication).\n    NON IMPLÉMENTÉ dans cette phase : nécessite le parsing ASN.1 du SOD (LDS\n    ICAO Doc 9303 partie 10/11) et une masterlist CSCA. À brancher quand l'app\n    mobile NFC sera développée. Voir la docstring du module pour le flux.\n    \"\"\"\n    raise NotImplementedError(\n        \"Passive Authentication non implémentée : nécessite un client NFC \"\n        \"(mobile), le parsing ASN.1 du SOD et une masterlist CSCA. \"",
+        "detail": "kyc.nfc",
+        "documentation": {}
+    },
+    {
+        "label": "OCRBackend",
+        "kind": 6,
+        "importPath": "kyc.ocr",
+        "description": "kyc.ocr",
+        "peekOfCode": "class OCRBackend:\n    name = \"base\"\n    def read_mrz(self, image) -> str:\n        \"\"\"Retourne le texte brut OCR d'une image de zone MRZ (np.ndarray).\"\"\"\n        raise NotImplementedError\ndef _resolve_tesseract_cmd() -> str | None:\n    \"\"\"Localise le binaire Tesseract : variable d'env, PATH, puis chemins\n    d'installation Windows courants.\"\"\"\n    import os\n    import shutil",
+        "detail": "kyc.ocr",
+        "documentation": {}
+    },
+    {
+        "label": "TesseractBackend",
+        "kind": 6,
+        "importPath": "kyc.ocr",
+        "description": "kyc.ocr",
+        "peekOfCode": "class TesseractBackend(OCRBackend):\n    name = \"tesseract\"\n    def __init__(self, lang: str | None = None, tessdata_dir: str | None = None):\n        import pytesseract  # échoue tôt si le paquet est absent\n        cmd = _resolve_tesseract_cmd()\n        if cmd:\n            pytesseract.pytesseract.tesseract_cmd = cmd\n        # Vérifie que le binaire répond (sinon erreur claire en amont).\n        pytesseract.get_tesseract_version()\n        self._pt = pytesseract",
+        "detail": "kyc.ocr",
+        "documentation": {}
+    },
+    {
+        "label": "EasyOCRBackend",
+        "kind": 6,
+        "importPath": "kyc.ocr",
+        "description": "kyc.ocr",
+        "peekOfCode": "class EasyOCRBackend(OCRBackend):\n    name = \"easyocr\"\n    def __init__(self, languages=(\"en\",)):\n        import easyocr\n        # gpu=False pour rester compatible CPU / faible RAM.\n        self._reader = easyocr.Reader(list(languages), gpu=False)\n    def read_mrz(self, image) -> str:\n        results = self._reader.readtext(\n            image, detail=0, allowlist=MRZ_WHITELIST, paragraph=False)\n        return \"\\n\".join(results)",
+        "detail": "kyc.ocr",
+        "documentation": {}
+    },
+    {
+        "label": "get_ocr_backend",
+        "kind": 2,
+        "importPath": "kyc.ocr",
+        "description": "kyc.ocr",
+        "peekOfCode": "def get_ocr_backend(name: str = \"auto\") -> OCRBackend:\n    \"\"\"Instancie un backend OCR. 'auto' = premier disponible.\"\"\"\n    name = (name or \"auto\").lower()\n    if name == \"tesseract\":\n        return TesseractBackend()\n    if name == \"easyocr\":\n        return EasyOCRBackend()\n    if name == \"auto\":\n        errors = []\n        for factory in (TesseractBackend, EasyOCRBackend):",
+        "detail": "kyc.ocr",
+        "documentation": {}
+    },
+    {
+        "label": "MRZ_WHITELIST",
+        "kind": 5,
+        "importPath": "kyc.ocr",
+        "description": "kyc.ocr",
+        "peekOfCode": "MRZ_WHITELIST = \"ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<\"\nclass OCRBackend:\n    name = \"base\"\n    def read_mrz(self, image) -> str:\n        \"\"\"Retourne le texte brut OCR d'une image de zone MRZ (np.ndarray).\"\"\"\n        raise NotImplementedError\ndef _resolve_tesseract_cmd() -> str | None:\n    \"\"\"Localise le binaire Tesseract : variable d'env, PATH, puis chemins\n    d'installation Windows courants.\"\"\"\n    import os",
+        "detail": "kyc.ocr",
+        "documentation": {}
+    },
+    {
+        "label": "verify_from_mrz",
+        "kind": 2,
+        "importPath": "kyc.pipeline",
+        "description": "kyc.pipeline",
+        "peekOfCode": "def verify_from_mrz(mrz_text: str, expected_name: str,\n                    cfg: Config | None = None,\n                    today: date | None = None) -> Report:\n    \"\"\"Vérifie une pièce à partir du texte MRZ (TD1/TD2/TD3, auto-détecté).\"\"\"\n    cfg = cfg or Config()\n    mrz = parse_mrz(mrz_text)\n    if mrz.parsed:\n        name_match = match_name(\n            expected_name, mrz.fields.get(\"surname\", \"\"),\n            mrz.fields.get(\"name\", \"\"), cfg,",
+        "detail": "kyc.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "verify_image",
+        "kind": 2,
+        "importPath": "kyc.pipeline",
+        "description": "kyc.pipeline",
+        "peekOfCode": "def verify_image(image_path: str, expected_name: str,\n                 cfg: Config | None = None, ocr_backend: str = \"auto\",\n                 today: date | None = None) -> Report:\n    \"\"\"Vérifie une pièce à partir d'une image (fichier).\"\"\"\n    try:\n        from .imaging import image_to_mrz_text\n    except ImportError as exc:\n        return _dependency_error(expected_name, cfg or Config(), str(exc))\n    return _verify_via(\n        lambda: image_to_mrz_text(image_path, ocr_backend=ocr_backend),",
+        "detail": "kyc.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "verify_image_bytes",
+        "kind": 2,
+        "importPath": "kyc.pipeline",
+        "description": "kyc.pipeline",
+        "peekOfCode": "def verify_image_bytes(data: bytes, expected_name: str,\n                       cfg: Config | None = None, ocr_backend: str = \"auto\",\n                       today: date | None = None) -> Report:\n    \"\"\"Vérifie une pièce à partir d'une image EN MÉMOIRE (bytes).\"\"\"\n    try:\n        from .imaging import image_bytes_to_mrz_text\n    except ImportError as exc:\n        return _dependency_error(expected_name, cfg or Config(), str(exc))\n    return _verify_via(\n        lambda: image_bytes_to_mrz_text(data, ocr_backend=ocr_backend),",
+        "detail": "kyc.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "verify_images",
+        "kind": 2,
+        "importPath": "kyc.pipeline",
+        "description": "kyc.pipeline",
+        "peekOfCode": "def verify_images(image_paths, expected_name: str, cfg: Config | None = None,\n                  ocr_backend: str = \"auto\", today: date | None = None) -> Report:\n    \"\"\"Vérifie une pièce à partir de plusieurs images fichiers (recto/verso).\"\"\"\n    return _verify_many(image_paths, verify_image, expected_name, cfg,\n                        ocr_backend, today)\ndef verify_images_bytes(blobs, expected_name: str, cfg: Config | None = None,\n                        ocr_backend: str = \"auto\",\n                        today: date | None = None) -> Report:\n    \"\"\"Vérifie une pièce à partir de plusieurs images en mémoire (recto/verso).\"\"\"\n    return _verify_many(blobs, verify_image_bytes, expected_name, cfg,",
+        "detail": "kyc.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "verify_images_bytes",
+        "kind": 2,
+        "importPath": "kyc.pipeline",
+        "description": "kyc.pipeline",
+        "peekOfCode": "def verify_images_bytes(blobs, expected_name: str, cfg: Config | None = None,\n                        ocr_backend: str = \"auto\",\n                        today: date | None = None) -> Report:\n    \"\"\"Vérifie une pièce à partir de plusieurs images en mémoire (recto/verso).\"\"\"\n    return _verify_many(blobs, verify_image_bytes, expected_name, cfg,\n                        ocr_backend, today)\ndef _to_bytes(source) -> bytes:\n    if isinstance(source, (bytes, bytearray)):\n        return bytes(source)\n    with open(source, \"rb\") as fh:           # chemin de fichier",
+        "detail": "kyc.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "verify_documents",
+        "kind": 2,
+        "importPath": "kyc.pipeline",
+        "description": "kyc.pipeline",
+        "peekOfCode": "def verify_documents(images, expected_name: str, selfie=None,\n                     cfg: Config | None = None, ocr_backend: str = \"auto\",\n                     today: date | None = None,\n                     run_forensics: bool = True) -> Report:\n    \"\"\"Vérification complète (Phase 5) : MRZ + nom, + comparaison de visage\n    (si selfie fourni) + heuristiques de falsification.\n    images : liste de chemins ou de bytes (recto/verso). selfie : chemin/bytes.\n    \"\"\"\n    cfg = cfg or Config()\n    blobs = [_to_bytes(s) for s in (images if isinstance(images, (list, tuple))",
+        "detail": "kyc.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "Status",
+        "kind": 6,
+        "importPath": "kyc.scoring",
+        "description": "kyc.scoring",
+        "peekOfCode": "class Status(IntEnum):\n    VALID = 0       # aucune anomalie détectée\n    SUSPECT = 1     # à revoir manuellement\n    REJECTED = 2    # incohérence forte\n_STATUS_FR = {\n    Status.VALID: \"VALIDÉ\",\n    Status.SUSPECT: \"SUSPECT\",\n    Status.REJECTED: \"REJETÉ\",\n}\n@dataclass",
+        "detail": "kyc.scoring",
+        "documentation": {}
+    },
+    {
+        "label": "Report",
+        "kind": 6,
+        "importPath": "kyc.scoring",
+        "description": "kyc.scoring",
+        "peekOfCode": "class Report:\n    status: str                      # \"VALID\" / \"SUSPECT\" / \"REJECTED\"\n    status_fr: str\n    score: float                     # 0-100\n    mrz_parsed: bool\n    mrz_valid: bool\n    mrz_format: str | None           # \"TD1\" / \"TD2\" / \"TD3\"\n    document_type: str | None\n    country: str | None\n    nationality: str | None",
+        "detail": "kyc.scoring",
+        "documentation": {}
+    },
+    {
+        "label": "apply_post_signals",
+        "kind": 2,
+        "importPath": "kyc.scoring",
+        "description": "kyc.scoring",
+        "peekOfCode": "def apply_post_signals(report: Report, face_match: dict | None = None,\n                       forensics: dict | None = None, cfg=None) -> Report:\n    \"\"\"Intègre les signaux Phase 5 (visage, forensique) à un rapport déjà\n    construit : attache les sections et ajuste la sévérité/décision.\"\"\"\n    from .config import Config\n    cfg = cfg or Config()\n    sev = Status[report.status]\n    if face_match is not None:\n        report.face_match = face_match\n        if face_match.get(\"score\") is None:",
+        "detail": "kyc.scoring",
+        "documentation": {}
+    },
+    {
+        "label": "build_report",
+        "kind": 2,
+        "importPath": "kyc.scoring",
+        "description": "kyc.scoring",
+        "peekOfCode": "def build_report(mrz: MrzResult, name_match: dict, expiry: dict, cfg) -> Report:\n    warnings: list[str] = []\n    errors: list[str] = []\n    # --- Cas non lisible : rejet immédiat. ---\n    if not mrz.parsed:\n        return Report(\n            status=Status.REJECTED.name,\n            status_fr=_STATUS_FR[Status.REJECTED],\n            score=0.0,\n            mrz_parsed=False, mrz_valid=False, mrz_format=mrz.format,",
+        "detail": "kyc.scoring",
+        "documentation": {}
+    },
+    {
+        "label": "_STATUS_FR",
+        "kind": 5,
+        "importPath": "kyc.scoring",
+        "description": "kyc.scoring",
+        "peekOfCode": "_STATUS_FR = {\n    Status.VALID: \"VALIDÉ\",\n    Status.SUSPECT: \"SUSPECT\",\n    Status.REJECTED: \"REJETÉ\",\n}\n@dataclass\nclass Report:\n    status: str                      # \"VALID\" / \"SUSPECT\" / \"REJECTED\"\n    status_fr: str\n    score: float                     # 0-100",
+        "detail": "kyc.scoring",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_id_td1",
+        "kind": 2,
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "peekOfCode": "def synthetic_id_td1(surname: str = \"ERIKSSON\",\n                     given_names: str = \"ANNA MARIA\",\n                     country: str = \"UTO\", nationality: str = \"UTO\",\n                     document_number: str = \"D23145890\",\n                     birth_date: str = \"740812\", sex: str = \"F\",\n                     expiry_date: str = \"300101\") -> str:\n    \"\"\"MRZ TD1 valide (carte d'identité, 3 lignes × 30).\"\"\"\n    return str(TD1CodeGenerator(\n        \"I\", country, document_number, birth_date, sex, expiry_date,\n        nationality, surname, given_names,",
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_id_td2",
+        "kind": 2,
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "peekOfCode": "def synthetic_id_td2(surname: str = \"ERIKSSON\",\n                     given_names: str = \"ANNA MARIA\",\n                     country: str = \"UTO\", nationality: str = \"UTO\",\n                     document_number: str = \"D23145890\",\n                     birth_date: str = \"740812\", sex: str = \"F\",\n                     expiry_date: str = \"300101\") -> str:\n    \"\"\"MRZ TD2 valide (pièce ID-2, 2 lignes × 36).\"\"\"\n    return str(TD2CodeGenerator(\n        \"I\", country, surname, given_names, document_number,\n        nationality, birth_date, sex, expiry_date, optional_data=\"\"))",
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "synthetic_passport",
+        "kind": 2,
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "peekOfCode": "def synthetic_passport(surname: str = \"ERIKSSON\",\n                       given_names: str = \"ANNA MARIA\",\n                       country: str = \"UTO\",\n                       nationality: str = \"UTO\",\n                       document_number: str = \"L898902C3\",\n                       birth_date: str = \"740812\",\n                       sex: str = \"F\",\n                       expiry_date: str = \"300101\",\n                       optional_data: str = \"ZE184226B\") -> str:\n    \"\"\"Retourne une MRZ TD3 valide (clés de contrôle correctes).\"\"\"",
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "render_passport_image",
+        "kind": 2,
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "peekOfCode": "def render_passport_image(mrz_text: str, out_path: str,\n                          surname: str = \"ERIKSSON\",\n                          given_names: str = \"ANNA MARIA\",\n                          face_path: str | None = None):\n    \"\"\"Génère une image de page passeport synthétique avec sa MRZ.\n    Si face_path est fourni, la photo réelle est incrustée dans l'emplacement\n    photo (utile pour tester la comparaison de visage).\n    Sert à tester le pipeline image de bout en bout sans vraie pièce.\n    Pillow est importé paresseusement : le cœur n'en dépend pas.\n    \"\"\"",
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "render_id_card_front",
+        "kind": 2,
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "peekOfCode": "def render_id_card_front(out_path: str, surname: str = \"ERIKSSON\",\n                         given_names: str = \"ANNA MARIA\"):\n    \"\"\"Recto de carte d'identité : photo + champs, SANS MRZ.\"\"\"\n    from PIL import Image, ImageDraw\n    W, H = 860, 540\n    img = Image.new(\"RGB\", (W, H), (224, 232, 224))\n    draw = ImageDraw.Draw(img)\n    draw.text((30, 25), \"CARTE NATIONALE D'IDENTITÉ\", fill=(20, 40, 90),\n              font=_load_font(_SANS, 28))\n    draw.rectangle([30, 90, 210, 330], fill=(200, 200, 200),",
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "render_id_card_back",
+        "kind": 2,
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "peekOfCode": "def render_id_card_back(mrz_text: str, out_path: str):\n    \"\"\"Verso de carte d'identité : MRZ (2 ou 3 lignes) en bas.\"\"\"\n    from PIL import Image, ImageDraw\n    W, H = 860, 540\n    img = Image.new(\"RGB\", (W, H), (224, 232, 224))\n    draw = ImageDraw.Draw(img)\n    draw.text((30, 25), \"ADRESSE / OBSERVATIONS\", fill=(60, 60, 60),\n              font=_load_font(_SANS, 18))\n    lines = mrz_text.split(\"\\n\")\n    f_mrz = _load_font(_MONO, 28)",
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "tamper_first_check_digit",
+        "kind": 2,
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "peekOfCode": "def tamper_first_check_digit(mrz_text: str) -> str:\n    \"\"\"Modifie la 1re clé de contrôle (clé du numéro de document, ligne 2,\n    position 9) pour produire une MRZ falsifiée détectable.\"\"\"\n    lines = mrz_text.split(\"\\n\")\n    if len(lines) != 2 or len(lines[1]) < 10:\n        return mrz_text\n    line2 = list(lines[1])\n    pos = 9  # check digit du numéro de document\n    line2[pos] = \"0\" if line2[pos] != \"0\" else \"1\"\n    lines[1] = \"\".join(line2)",
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "PUBLIC_SAMPLES",
+        "kind": 5,
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "peekOfCode": "PUBLIC_SAMPLES = {\n    \"icao_anna_eriksson\": (\n        \"P<UTOERIKSSON<<ANNA<MARIA<<<<<<<<<<<<<<<<<<<\\n\"\n        \"L898902C36UTO7408122F1204159ZE184226B<<<<<10\"\n    ),\n}\ndef render_passport_image(mrz_text: str, out_path: str,\n                          surname: str = \"ERIKSSON\",\n                          given_names: str = \"ANNA MARIA\",\n                          face_path: str | None = None):",
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "_MONO",
+        "kind": 5,
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "peekOfCode": "_MONO = [\"C:/Windows/Fonts/consola.ttf\", \"C:/Windows/Fonts/cour.ttf\",\n         \"DejaVuSansMono.ttf\"]\n_SANS = [\"C:/Windows/Fonts/arial.ttf\", \"DejaVuSans.ttf\"]\ndef render_id_card_front(out_path: str, surname: str = \"ERIKSSON\",\n                         given_names: str = \"ANNA MARIA\"):\n    \"\"\"Recto de carte d'identité : photo + champs, SANS MRZ.\"\"\"\n    from PIL import Image, ImageDraw\n    W, H = 860, 540\n    img = Image.new(\"RGB\", (W, H), (224, 232, 224))\n    draw = ImageDraw.Draw(img)",
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "_SANS",
+        "kind": 5,
+        "importPath": "kyc.specimens",
+        "description": "kyc.specimens",
+        "peekOfCode": "_SANS = [\"C:/Windows/Fonts/arial.ttf\", \"DejaVuSans.ttf\"]\ndef render_id_card_front(out_path: str, surname: str = \"ERIKSSON\",\n                         given_names: str = \"ANNA MARIA\"):\n    \"\"\"Recto de carte d'identité : photo + champs, SANS MRZ.\"\"\"\n    from PIL import Image, ImageDraw\n    W, H = 860, 540\n    img = Image.new(\"RGB\", (W, H), (224, 232, 224))\n    draw = ImageDraw.Draw(img)\n    draw.text((30, 25), \"CARTE NATIONALE D'IDENTITÉ\", fill=(20, 40, 90),\n              font=_load_font(_SANS, 28))",
+        "detail": "kyc.specimens",
+        "documentation": {}
+    },
+    {
+        "label": "StorageConfig",
+        "kind": 6,
+        "importPath": "kyc.storage",
+        "description": "kyc.storage",
+        "peekOfCode": "class StorageConfig:\n    root: str = \"archive\"\n    retention_days: int = 1825   # 5 ans (recommandation LCB-FT courante)\nclass IntegrityError(Exception):\n    \"\"\"Levée si un blob déchiffré échoue à la vérification d'intégrité GCM.\"\"\"\nclass Vault:\n    def __init__(self, config: StorageConfig | None = None,\n                 master_key: bytes | None = None):\n        self.cfg = config or StorageConfig()\n        os.makedirs(self.cfg.root, exist_ok=True)",
+        "detail": "kyc.storage",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "kind": 6,
+        "importPath": "kyc.storage",
+        "description": "kyc.storage",
+        "peekOfCode": "class IntegrityError(Exception):\n    \"\"\"Levée si un blob déchiffré échoue à la vérification d'intégrité GCM.\"\"\"\nclass Vault:\n    def __init__(self, config: StorageConfig | None = None,\n                 master_key: bytes | None = None):\n        self.cfg = config or StorageConfig()\n        os.makedirs(self.cfg.root, exist_ok=True)\n        self._master = master_key or _resolve_master_key(self.cfg.root)\n        if len(self._master) != 32:\n            raise ValueError(\"La clé maître doit faire 32 octets (AES-256).\")",
+        "detail": "kyc.storage",
+        "documentation": {}
+    },
+    {
+        "label": "Vault",
+        "kind": 6,
+        "importPath": "kyc.storage",
+        "description": "kyc.storage",
+        "peekOfCode": "class Vault:\n    def __init__(self, config: StorageConfig | None = None,\n                 master_key: bytes | None = None):\n        self.cfg = config or StorageConfig()\n        os.makedirs(self.cfg.root, exist_ok=True)\n        self._master = master_key or _resolve_master_key(self.cfg.root)\n        if len(self._master) != 32:\n            raise ValueError(\"La clé maître doit faire 32 octets (AES-256).\")\n        self._db_path = os.path.join(self.cfg.root, \"index.db\")\n        self._init_db()",
+        "detail": "kyc.storage",
+        "documentation": {}
+    },
+    {
+        "label": "test_health",
+        "kind": 2,
+        "importPath": "tests.test_api",
+        "description": "tests.test_api",
+        "peekOfCode": "def test_health():\n    r = client.get(\"/health\")\n    assert r.status_code == 200\n    assert r.json()[\"status\"] == \"ok\"\ndef test_verify_mrz_valid():\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    r = client.post(\"/verify-mrz\",\n                    json={\"mrz_text\": mrz, \"name\": \"Anna Maria Eriksson\"})\n    assert r.status_code == 200\n    body = r.json()",
+        "detail": "tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "test_verify_mrz_valid",
+        "kind": 2,
+        "importPath": "tests.test_api",
+        "description": "tests.test_api",
+        "peekOfCode": "def test_verify_mrz_valid():\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    r = client.post(\"/verify-mrz\",\n                    json={\"mrz_text\": mrz, \"name\": \"Anna Maria Eriksson\"})\n    assert r.status_code == 200\n    body = r.json()\n    assert body[\"status\"] == \"VALID\"\n    assert body[\"mrz_format\"] == \"TD3\"\n    assert body[\"name_match\"][\"label\"] == \"MATCH\"\ndef test_verify_mrz_wrong_name():",
+        "detail": "tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "test_verify_mrz_wrong_name",
+        "kind": 2,
+        "importPath": "tests.test_api",
+        "description": "tests.test_api",
+        "peekOfCode": "def test_verify_mrz_wrong_name():\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    r = client.post(\"/verify-mrz\",\n                    json={\"mrz_text\": mrz, \"name\": \"Jean Dupont\"})\n    assert r.json()[\"status\"] == \"REJECTED\"\ndef test_health_reports_auth_disabled_by_default():\n    assert client.get(\"/health\").json()[\"auth_enabled\"] is False\ndef test_auth_enforced_when_keys_configured(monkeypatch):\n    monkeypatch.setenv(\"KYC_API_KEYS\", \"secret123, other-key\")\n    mrz = synthetic_passport(expiry_date=\"300101\")",
+        "detail": "tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "test_health_reports_auth_disabled_by_default",
+        "kind": 2,
+        "importPath": "tests.test_api",
+        "description": "tests.test_api",
+        "peekOfCode": "def test_health_reports_auth_disabled_by_default():\n    assert client.get(\"/health\").json()[\"auth_enabled\"] is False\ndef test_auth_enforced_when_keys_configured(monkeypatch):\n    monkeypatch.setenv(\"KYC_API_KEYS\", \"secret123, other-key\")\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    payload = {\"mrz_text\": mrz, \"name\": \"Anna Maria Eriksson\"}\n    # Sans clé -> 401\n    assert client.post(\"/verify-mrz\", json=payload).status_code == 401\n    # Mauvaise clé -> 401\n    assert client.post(\"/verify-mrz\", json=payload,",
+        "detail": "tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "test_auth_enforced_when_keys_configured",
+        "kind": 2,
+        "importPath": "tests.test_api",
+        "description": "tests.test_api",
+        "peekOfCode": "def test_auth_enforced_when_keys_configured(monkeypatch):\n    monkeypatch.setenv(\"KYC_API_KEYS\", \"secret123, other-key\")\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    payload = {\"mrz_text\": mrz, \"name\": \"Anna Maria Eriksson\"}\n    # Sans clé -> 401\n    assert client.post(\"/verify-mrz\", json=payload).status_code == 401\n    # Mauvaise clé -> 401\n    assert client.post(\"/verify-mrz\", json=payload,\n                       headers={\"X-API-Key\": \"wrong\"}).status_code == 401\n    # Bonne clé (X-API-Key) -> 200",
+        "detail": "tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "test_verify_rejects_non_image",
+        "kind": 2,
+        "importPath": "tests.test_api",
+        "description": "tests.test_api",
+        "peekOfCode": "def test_verify_rejects_non_image():\n    r = client.post(\"/verify\", data={\"name\": \"X\"},\n                    files=[(\"images\", (\"x.txt\", b\"hello world\", \"text/plain\"))])\n    assert r.status_code == 415\n@pytest.mark.skipif(not _ocr_available(), reason=\"Tesseract/OCR indisponible\")\ndef test_verify_upload_image(tmp_path):\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    path = os.path.join(tmp_path, \"passport.jpg\")\n    render_passport_image(mrz, path)\n    with open(path, \"rb\") as fh:",
+        "detail": "tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "test_verify_upload_image",
+        "kind": 2,
+        "importPath": "tests.test_api",
+        "description": "tests.test_api",
+        "peekOfCode": "def test_verify_upload_image(tmp_path):\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    path = os.path.join(tmp_path, \"passport.jpg\")\n    render_passport_image(mrz, path)\n    with open(path, \"rb\") as fh:\n        data = fh.read()\n    r = client.post(\n        \"/verify\",\n        data={\"name\": \"Anna Maria Eriksson\", \"ocr\": \"tesseract\"},\n        files=[(\"images\", (\"passport.jpg\", data, \"image/jpeg\"))],",
+        "detail": "tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "test_verify_with_archive_then_search",
+        "kind": 2,
+        "importPath": "tests.test_api",
+        "description": "tests.test_api",
+        "peekOfCode": "def test_verify_with_archive_then_search(tmp_path, monkeypatch):\n    monkeypatch.setenv(\"KYC_ARCHIVE_DIR\", str(tmp_path / \"arch\"))\n    monkeypatch.setenv(\"KYC_MASTER_KEY\", base64.b64encode(b\"0\" * 32).decode())\n    monkeypatch.setattr(api, \"_vault\", None)  # force ré-init sur le dossier temp\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    path = os.path.join(tmp_path, \"passport.jpg\")\n    render_passport_image(mrz, path)\n    with open(path, \"rb\") as fh:\n        data = fh.read()\n    r = client.post(",
+        "detail": "tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "tests.test_api",
+        "description": "tests.test_api",
+        "peekOfCode": "client = TestClient(app)\ndef _ocr_available():\n    try:\n        get_ocr_backend(\"tesseract\")\n        return True\n    except Exception:\n        return False\ndef _crypto_available():\n    try:\n        import cryptography  # noqa: F401",
+        "detail": "tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "test_no_face_is_graceful",
+        "kind": 2,
+        "importPath": "tests.test_face",
+        "description": "tests.test_face",
+        "peekOfCode": "def test_no_face_is_graceful():\n    flat = np.full((200, 200, 3), 127, dtype=np.uint8)\n    r = match_faces(flat, flat)\n    assert r[\"match\"] is False\n    assert r[\"score\"] is None\n    assert \"error\" in r\n@pytest.mark.skipif(not _faces_present(), reason=\"fixtures visages absentes\")\ndef test_self_match_is_high():\n    r = match_faces(FA, FA)\n    assert r[\"match\"] is True",
+        "detail": "tests.test_face",
+        "documentation": {}
+    },
+    {
+        "label": "test_self_match_is_high",
+        "kind": 2,
+        "importPath": "tests.test_face",
+        "description": "tests.test_face",
+        "peekOfCode": "def test_self_match_is_high():\n    r = match_faces(FA, FA)\n    assert r[\"match\"] is True\n    assert r[\"score\"] > 0.9\n@pytest.mark.skipif(not _faces_present(), reason=\"fixtures visages absentes\")\ndef test_different_people_do_not_match():\n    r = match_faces(FA, FB)\n    assert r[\"match\"] is False\n    assert r[\"score\"] < r[\"threshold\"]",
+        "detail": "tests.test_face",
+        "documentation": {}
+    },
+    {
+        "label": "test_different_people_do_not_match",
+        "kind": 2,
+        "importPath": "tests.test_face",
+        "description": "tests.test_face",
+        "peekOfCode": "def test_different_people_do_not_match():\n    r = match_faces(FA, FB)\n    assert r[\"match\"] is False\n    assert r[\"score\"] < r[\"threshold\"]",
+        "detail": "tests.test_face",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 5,
+        "importPath": "tests.test_face",
+        "description": "tests.test_face",
+        "peekOfCode": "cv2 = pytest.importorskip(\"cv2\")\nimport numpy as np\nfrom kyc.face import match_faces, YUNET_MODEL, SFACE_MODEL, _models_dir\nFA = os.path.join(\"samples\", \"face_a.jpg\")\nFB = os.path.join(\"samples\", \"face_b.jpg\")\ndef _models_present():\n    d = _models_dir()\n    return (os.path.isfile(os.path.join(d, YUNET_MODEL))\n            and os.path.isfile(os.path.join(d, SFACE_MODEL)))\ndef _faces_present():",
+        "detail": "tests.test_face",
+        "documentation": {}
+    },
+    {
+        "label": "FA",
+        "kind": 5,
+        "importPath": "tests.test_face",
+        "description": "tests.test_face",
+        "peekOfCode": "FA = os.path.join(\"samples\", \"face_a.jpg\")\nFB = os.path.join(\"samples\", \"face_b.jpg\")\ndef _models_present():\n    d = _models_dir()\n    return (os.path.isfile(os.path.join(d, YUNET_MODEL))\n            and os.path.isfile(os.path.join(d, SFACE_MODEL)))\ndef _faces_present():\n    return os.path.isfile(FA) and os.path.isfile(FB)\npytestmark = pytest.mark.skipif(not _models_present(),\n                                reason=\"modèles visage absents\")",
+        "detail": "tests.test_face",
+        "documentation": {}
+    },
+    {
+        "label": "FB",
+        "kind": 5,
+        "importPath": "tests.test_face",
+        "description": "tests.test_face",
+        "peekOfCode": "FB = os.path.join(\"samples\", \"face_b.jpg\")\ndef _models_present():\n    d = _models_dir()\n    return (os.path.isfile(os.path.join(d, YUNET_MODEL))\n            and os.path.isfile(os.path.join(d, SFACE_MODEL)))\ndef _faces_present():\n    return os.path.isfile(FA) and os.path.isfile(FB)\npytestmark = pytest.mark.skipif(not _models_present(),\n                                reason=\"modèles visage absents\")\ndef test_no_face_is_graceful():",
+        "detail": "tests.test_face",
+        "documentation": {}
+    },
+    {
+        "label": "pytestmark",
+        "kind": 5,
+        "importPath": "tests.test_face",
+        "description": "tests.test_face",
+        "peekOfCode": "pytestmark = pytest.mark.skipif(not _models_present(),\n                                reason=\"modèles visage absents\")\ndef test_no_face_is_graceful():\n    flat = np.full((200, 200, 3), 127, dtype=np.uint8)\n    r = match_faces(flat, flat)\n    assert r[\"match\"] is False\n    assert r[\"score\"] is None\n    assert \"error\" in r\n@pytest.mark.skipif(not _faces_present(), reason=\"fixtures visages absentes\")\ndef test_self_match_is_high():",
+        "detail": "tests.test_face",
+        "documentation": {}
+    },
+    {
+        "label": "test_metrics_present_and_clean_not_suspicious",
+        "kind": 2,
+        "importPath": "tests.test_forensics",
+        "description": "tests.test_forensics",
+        "peekOfCode": "def test_metrics_present_and_clean_not_suspicious():\n    r = analyze_image(_sharp_image())\n    for key in (\"width\", \"height\", \"blur_var\", \"too_blurry\",\n                \"low_resolution\", \"tampering_score\", \"suspicious\"):\n        assert key in r\n    assert r[\"too_blurry\"] is False\n    assert r[\"low_resolution\"] is False\n    assert r[\"suspicious\"] is False     # image propre -> pas de faux positif\ndef test_low_resolution_flag():\n    r = analyze_image(np.full((100, 100, 3), 200, dtype=np.uint8))",
+        "detail": "tests.test_forensics",
+        "documentation": {}
+    },
+    {
+        "label": "test_low_resolution_flag",
+        "kind": 2,
+        "importPath": "tests.test_forensics",
+        "description": "tests.test_forensics",
+        "peekOfCode": "def test_low_resolution_flag():\n    r = analyze_image(np.full((100, 100, 3), 200, dtype=np.uint8))\n    assert r[\"low_resolution\"] is True\ndef test_blurry_flag():\n    blurred = cv2.GaussianBlur(_sharp_image(), (31, 31), 0)\n    r = analyze_image(blurred)\n    assert r[\"too_blurry\"] is True",
+        "detail": "tests.test_forensics",
+        "documentation": {}
+    },
+    {
+        "label": "test_blurry_flag",
+        "kind": 2,
+        "importPath": "tests.test_forensics",
+        "description": "tests.test_forensics",
+        "peekOfCode": "def test_blurry_flag():\n    blurred = cv2.GaussianBlur(_sharp_image(), (31, 31), 0)\n    r = analyze_image(blurred)\n    assert r[\"too_blurry\"] is True",
+        "detail": "tests.test_forensics",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 5,
+        "importPath": "tests.test_forensics",
+        "description": "tests.test_forensics",
+        "peekOfCode": "cv2 = pytest.importorskip(\"cv2\")\nimport numpy as np\nfrom kyc.forensics import analyze_image\ndef _sharp_image(w=800, h=500):\n    img = np.full((h, w, 3), 230, dtype=np.uint8)\n    for x in range(0, w, 20):           # rayures nettes -> Laplacien élevé\n        img[:, x:x + 2] = 20\n    return img\ndef test_metrics_present_and_clean_not_suspicious():\n    r = analyze_image(_sharp_image())",
+        "detail": "tests.test_forensics",
+        "documentation": {}
+    },
+    {
+        "label": "test_image_roundtrip_valid",
+        "kind": 2,
+        "importPath": "tests.test_image_integration",
+        "description": "tests.test_image_integration",
+        "peekOfCode": "def test_image_roundtrip_valid(tmp_path):\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    img_path = os.path.join(tmp_path, \"passport.jpg\")\n    render_passport_image(mrz, img_path)\n    report = verify_image(img_path, \"Anna Maria Eriksson\", ocr_backend=\"tesseract\")\n    assert report.mrz_parsed\n    assert report.fields[\"surname\"] == \"ERIKSSON\"\n    assert report.name_match[\"label\"] == \"MATCH\"\n    assert report.status == \"VALID\"\ndef test_recto_verso_id_card(tmp_path):",
+        "detail": "tests.test_image_integration",
+        "documentation": {}
+    },
+    {
+        "label": "test_recto_verso_id_card",
+        "kind": 2,
+        "importPath": "tests.test_image_integration",
+        "description": "tests.test_image_integration",
+        "peekOfCode": "def test_recto_verso_id_card(tmp_path):\n    # Carte TD1 : MRZ au dos uniquement. verify_images doit la trouver.\n    mrz = synthetic_id_td1(expiry_date=\"300101\")\n    front = os.path.join(tmp_path, \"front.jpg\")\n    back = os.path.join(tmp_path, \"back.jpg\")\n    render_id_card_front(front)\n    render_id_card_back(mrz, back)\n    report = verify_images([front, back], \"Anna Maria Eriksson\",\n                           ocr_backend=\"tesseract\")\n    assert report.mrz_parsed",
+        "detail": "tests.test_image_integration",
+        "documentation": {}
+    },
+    {
+        "label": "test_verify_documents_with_matching_selfie",
+        "kind": 2,
+        "importPath": "tests.test_image_integration",
+        "description": "tests.test_image_integration",
+        "peekOfCode": "def test_verify_documents_with_matching_selfie(tmp_path):\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    doc = os.path.join(tmp_path, \"passport.jpg\")\n    render_passport_image(mrz, doc, face_path=FA)   # photo = face_a\n    ok = verify_documents([doc], \"Anna Maria Eriksson\", selfie=FA,\n                          ocr_backend=\"tesseract\")\n    assert ok.face_match is not None\n    assert ok.face_match[\"match\"] is True\n    assert ok.status == \"VALID\"\n    ko = verify_documents([doc], \"Anna Maria Eriksson\", selfie=FB,",
+        "detail": "tests.test_image_integration",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 5,
+        "importPath": "tests.test_image_integration",
+        "description": "tests.test_image_integration",
+        "peekOfCode": "cv2 = pytest.importorskip(\"cv2\")\nPIL = pytest.importorskip(\"PIL\")\nfrom kyc.ocr import get_ocr_backend\nfrom kyc.pipeline import verify_image, verify_images, verify_documents\nfrom kyc.specimens import (synthetic_passport, synthetic_id_td1,\n                          render_passport_image, render_id_card_front,\n                          render_id_card_back)\nfrom kyc.face import _models_dir, YUNET_MODEL, SFACE_MODEL\nFA = os.path.join(\"samples\", \"face_a.jpg\")\nFB = os.path.join(\"samples\", \"face_b.jpg\")",
+        "detail": "tests.test_image_integration",
+        "documentation": {}
+    },
+    {
+        "label": "PIL",
+        "kind": 5,
+        "importPath": "tests.test_image_integration",
+        "description": "tests.test_image_integration",
+        "peekOfCode": "PIL = pytest.importorskip(\"PIL\")\nfrom kyc.ocr import get_ocr_backend\nfrom kyc.pipeline import verify_image, verify_images, verify_documents\nfrom kyc.specimens import (synthetic_passport, synthetic_id_td1,\n                          render_passport_image, render_id_card_front,\n                          render_id_card_back)\nfrom kyc.face import _models_dir, YUNET_MODEL, SFACE_MODEL\nFA = os.path.join(\"samples\", \"face_a.jpg\")\nFB = os.path.join(\"samples\", \"face_b.jpg\")\ndef _face_ready():",
+        "detail": "tests.test_image_integration",
+        "documentation": {}
+    },
+    {
+        "label": "FA",
+        "kind": 5,
+        "importPath": "tests.test_image_integration",
+        "description": "tests.test_image_integration",
+        "peekOfCode": "FA = os.path.join(\"samples\", \"face_a.jpg\")\nFB = os.path.join(\"samples\", \"face_b.jpg\")\ndef _face_ready():\n    d = _models_dir()\n    return (os.path.isfile(os.path.join(d, YUNET_MODEL))\n            and os.path.isfile(os.path.join(d, SFACE_MODEL))\n            and os.path.isfile(FA) and os.path.isfile(FB))\ndef _ocr_available():\n    try:\n        get_ocr_backend(\"tesseract\")",
+        "detail": "tests.test_image_integration",
+        "documentation": {}
+    },
+    {
+        "label": "FB",
+        "kind": 5,
+        "importPath": "tests.test_image_integration",
+        "description": "tests.test_image_integration",
+        "peekOfCode": "FB = os.path.join(\"samples\", \"face_b.jpg\")\ndef _face_ready():\n    d = _models_dir()\n    return (os.path.isfile(os.path.join(d, YUNET_MODEL))\n            and os.path.isfile(os.path.join(d, SFACE_MODEL))\n            and os.path.isfile(FA) and os.path.isfile(FB))\ndef _ocr_available():\n    try:\n        get_ocr_backend(\"tesseract\")\n        return True",
+        "detail": "tests.test_image_integration",
+        "documentation": {}
+    },
+    {
+        "label": "pytestmark",
+        "kind": 5,
+        "importPath": "tests.test_image_integration",
+        "description": "tests.test_image_integration",
+        "peekOfCode": "pytestmark = pytest.mark.skipif(\n    not _ocr_available(), reason=\"Tesseract/OCR indisponible\")\ndef test_image_roundtrip_valid(tmp_path):\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    img_path = os.path.join(tmp_path, \"passport.jpg\")\n    render_passport_image(mrz, img_path)\n    report = verify_image(img_path, \"Anna Maria Eriksson\", ocr_backend=\"tesseract\")\n    assert report.mrz_parsed\n    assert report.fields[\"surname\"] == \"ERIKSSON\"\n    assert report.name_match[\"label\"] == \"MATCH\"",
+        "detail": "tests.test_image_integration",
+        "documentation": {}
+    },
+    {
+        "label": "test_parse_td1_card",
+        "kind": 2,
+        "importPath": "tests.test_mrz_reader",
+        "description": "tests.test_mrz_reader",
+        "peekOfCode": "def test_parse_td1_card():\n    res = parse_mrz(synthetic_id_td1())\n    assert res.parsed and res.valid\n    assert res.format == \"TD1\"\n    assert res.fields[\"surname\"] == \"ERIKSSON\"\n    assert res.fields[\"document_number\"] == \"D23145890\"\ndef test_parse_td2_card():\n    res = parse_mrz(synthetic_id_td2())\n    assert res.parsed and res.valid\n    assert res.format == \"TD2\"",
+        "detail": "tests.test_mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "test_parse_td2_card",
+        "kind": 2,
+        "importPath": "tests.test_mrz_reader",
+        "description": "tests.test_mrz_reader",
+        "peekOfCode": "def test_parse_td2_card():\n    res = parse_mrz(synthetic_id_td2())\n    assert res.parsed and res.valid\n    assert res.format == \"TD2\"\n    assert res.fields[\"name\"] == \"ANNA MARIA\"\ndef test_format_autodetection():\n    assert parse_mrz(synthetic_id_td1()).format == \"TD1\"\n    assert parse_mrz(synthetic_id_td2()).format == \"TD2\"\n    assert parse_mrz(synthetic_passport()).format == \"TD3\"\ndef test_parse_valid_synthetic():",
+        "detail": "tests.test_mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "test_format_autodetection",
+        "kind": 2,
+        "importPath": "tests.test_mrz_reader",
+        "description": "tests.test_mrz_reader",
+        "peekOfCode": "def test_format_autodetection():\n    assert parse_mrz(synthetic_id_td1()).format == \"TD1\"\n    assert parse_mrz(synthetic_id_td2()).format == \"TD2\"\n    assert parse_mrz(synthetic_passport()).format == \"TD3\"\ndef test_parse_valid_synthetic():\n    mrz = synthetic_passport()\n    res = parse_td3(mrz)\n    assert res.parsed and res.valid\n    assert res.fields[\"surname\"] == \"ERIKSSON\"\n    assert res.fields[\"name\"] == \"ANNA MARIA\"",
+        "detail": "tests.test_mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "test_parse_valid_synthetic",
+        "kind": 2,
+        "importPath": "tests.test_mrz_reader",
+        "description": "tests.test_mrz_reader",
+        "peekOfCode": "def test_parse_valid_synthetic():\n    mrz = synthetic_passport()\n    res = parse_td3(mrz)\n    assert res.parsed and res.valid\n    assert res.fields[\"surname\"] == \"ERIKSSON\"\n    assert res.fields[\"name\"] == \"ANNA MARIA\"\n    assert res.fields[\"document_type\"] == \"P\"\n    assert all(res.check_digits.values())\ndef test_parse_public_sample():\n    res = parse_td3(PUBLIC_SAMPLES[\"icao_anna_eriksson\"])",
+        "detail": "tests.test_mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "test_parse_public_sample",
+        "kind": 2,
+        "importPath": "tests.test_mrz_reader",
+        "description": "tests.test_mrz_reader",
+        "peekOfCode": "def test_parse_public_sample():\n    res = parse_td3(PUBLIC_SAMPLES[\"icao_anna_eriksson\"])\n    assert res.parsed and res.valid\n    assert res.fields[\"document_number\"] == \"L898902C3\"\ndef test_tampered_check_digit_detected():\n    mrz = tamper_first_check_digit(synthetic_passport())\n    res = parse_td3(mrz)\n    assert res.parsed          # structure lisible\n    assert not res.valid       # mais clé invalide\n    assert \"document_number_hash\" in res.invalid_check_digits",
+        "detail": "tests.test_mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "test_tampered_check_digit_detected",
+        "kind": 2,
+        "importPath": "tests.test_mrz_reader",
+        "description": "tests.test_mrz_reader",
+        "peekOfCode": "def test_tampered_check_digit_detected():\n    mrz = tamper_first_check_digit(synthetic_passport())\n    res = parse_td3(mrz)\n    assert res.parsed          # structure lisible\n    assert not res.valid       # mais clé invalide\n    assert \"document_number_hash\" in res.invalid_check_digits\ndef test_malformed_does_not_raise():\n    res = parse_td3(\"GARBAGE\\nLINE\")\n    assert not res.parsed\n    assert res.error is not None",
+        "detail": "tests.test_mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "test_malformed_does_not_raise",
+        "kind": 2,
+        "importPath": "tests.test_mrz_reader",
+        "description": "tests.test_mrz_reader",
+        "peekOfCode": "def test_malformed_does_not_raise():\n    res = parse_td3(\"GARBAGE\\nLINE\")\n    assert not res.parsed\n    assert res.error is not None\ndef test_extract_lines_from_noisy_ocr():\n    mrz = synthetic_passport()\n    noisy = \"QUELQUE BRUIT\\n\\n\" + mrz.replace(\"\\n\", \"  \\n \") + \"\\nfooter\"\n    extracted = extract_td3_lines(noisy)\n    assert extracted is not None\n    assert parse_td3(extracted).valid",
+        "detail": "tests.test_mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "test_extract_lines_from_noisy_ocr",
+        "kind": 2,
+        "importPath": "tests.test_mrz_reader",
+        "description": "tests.test_mrz_reader",
+        "peekOfCode": "def test_extract_lines_from_noisy_ocr():\n    mrz = synthetic_passport()\n    noisy = \"QUELQUE BRUIT\\n\\n\" + mrz.replace(\"\\n\", \"  \\n \") + \"\\nfooter\"\n    extracted = extract_td3_lines(noisy)\n    assert extracted is not None\n    assert parse_td3(extracted).valid\ndef test_expiry_detection():\n    # 1204 -> avril 2012, donc expiré au 2026.\n    status = expiry_status(\"120415\", today=date(2026, 6, 6))\n    assert status[\"expired\"] is True",
+        "detail": "tests.test_mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "test_expiry_detection",
+        "kind": 2,
+        "importPath": "tests.test_mrz_reader",
+        "description": "tests.test_mrz_reader",
+        "peekOfCode": "def test_expiry_detection():\n    # 1204 -> avril 2012, donc expiré au 2026.\n    status = expiry_status(\"120415\", today=date(2026, 6, 6))\n    assert status[\"expired\"] is True\n    status2 = expiry_status(\"300101\", today=date(2026, 6, 6))\n    assert status2[\"expired\"] is False\ndef test_birth_date_century():\n    info = interpret_mrz_date(\"740812\", \"birth\", today=date(2026, 6, 6))\n    assert info[\"iso\"] == \"1974-08-12\"\ndef test_positional_correction_recovers_ocr_confusions():",
+        "detail": "tests.test_mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "test_birth_date_century",
+        "kind": 2,
+        "importPath": "tests.test_mrz_reader",
+        "description": "tests.test_mrz_reader",
+        "peekOfCode": "def test_birth_date_century():\n    info = interpret_mrz_date(\"740812\", \"birth\", today=date(2026, 6, 6))\n    assert info[\"iso\"] == \"1974-08-12\"\ndef test_positional_correction_recovers_ocr_confusions():\n    # Sortie OCR typique : 'UTO' lu 'UT0' (O->0) sur la nationalité (ligne 2).\n    ocr = (\"P<UTOERIKSSON<<ANNA<MARIA<<<<<<<<<<<<<<<<<<<\\n\"\n           \"L898902C36UT07408122F3001019ZE184226B<<<<<16\")\n    # Sans correction : invalide (nationalité numérique impossible).\n    assert not parse_td3(ocr, autocorrect=False).valid\n    # Avec correction positionnelle : récupéré et valide.",
+        "detail": "tests.test_mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "test_positional_correction_recovers_ocr_confusions",
+        "kind": 2,
+        "importPath": "tests.test_mrz_reader",
+        "description": "tests.test_mrz_reader",
+        "peekOfCode": "def test_positional_correction_recovers_ocr_confusions():\n    # Sortie OCR typique : 'UTO' lu 'UT0' (O->0) sur la nationalité (ligne 2).\n    ocr = (\"P<UTOERIKSSON<<ANNA<MARIA<<<<<<<<<<<<<<<<<<<\\n\"\n           \"L898902C36UT07408122F3001019ZE184226B<<<<<16\")\n    # Sans correction : invalide (nationalité numérique impossible).\n    assert not parse_td3(ocr, autocorrect=False).valid\n    # Avec correction positionnelle : récupéré et valide.\n    res = parse_td3(ocr, autocorrect=True)\n    assert res.valid\n    assert res.fields[\"nationality\"] == \"UTO\"",
+        "detail": "tests.test_mrz_reader",
+        "documentation": {}
+    },
+    {
+        "label": "test_normalize_strips_accents_and_separators",
+        "kind": 2,
+        "importPath": "tests.test_names",
+        "description": "tests.test_names",
+        "peekOfCode": "def test_normalize_strips_accents_and_separators():\n    assert normalize_name(\"Éric  De-La Croïx\") == \"ERIC DE LA CROIX\"\n    assert normalize_name(\"ANNA<MARIA<<ERIKSSON\") == \"ANNA MARIA ERIKSSON\"\ndef test_german_transliteration_matches_mrz():\n    # Müller (visuel) vs MUELLER (MRZ) -> doit normaliser pareil.\n    assert normalize_name(\"Müller\") == \"MUELLER\"\n    assert normalize_name(\"Straße\") == \"STRASSE\"\ndef test_order_independent():\n    s = name_similarity(\"Anna Maria Eriksson\", \"ERIKSSON ANNA MARIA\")\n    assert s > 0.95",
+        "detail": "tests.test_names",
+        "documentation": {}
+    },
+    {
+        "label": "test_german_transliteration_matches_mrz",
+        "kind": 2,
+        "importPath": "tests.test_names",
+        "description": "tests.test_names",
+        "peekOfCode": "def test_german_transliteration_matches_mrz():\n    # Müller (visuel) vs MUELLER (MRZ) -> doit normaliser pareil.\n    assert normalize_name(\"Müller\") == \"MUELLER\"\n    assert normalize_name(\"Straße\") == \"STRASSE\"\ndef test_order_independent():\n    s = name_similarity(\"Anna Maria Eriksson\", \"ERIKSSON ANNA MARIA\")\n    assert s > 0.95\ndef test_exact_match_label():\n    m = match_name(\"Anna Maria Eriksson\", \"ERIKSSON\", \"ANNA MARIA\", CFG)\n    assert m[\"label\"] == \"MATCH\"",
+        "detail": "tests.test_names",
+        "documentation": {}
+    },
+    {
+        "label": "test_order_independent",
+        "kind": 2,
+        "importPath": "tests.test_names",
+        "description": "tests.test_names",
+        "peekOfCode": "def test_order_independent():\n    s = name_similarity(\"Anna Maria Eriksson\", \"ERIKSSON ANNA MARIA\")\n    assert s > 0.95\ndef test_exact_match_label():\n    m = match_name(\"Anna Maria Eriksson\", \"ERIKSSON\", \"ANNA MARIA\", CFG)\n    assert m[\"label\"] == \"MATCH\"\n    assert m[\"score\"] >= 95\ndef test_partial_match_label():\n    # Prénom manquant -> correspondance partielle.\n    m = match_name(\"Anna Eriksson\", \"ERIKSSON\", \"ANNA MARIA CHARLOTTE\", CFG)",
+        "detail": "tests.test_names",
+        "documentation": {}
+    },
+    {
+        "label": "test_exact_match_label",
+        "kind": 2,
+        "importPath": "tests.test_names",
+        "description": "tests.test_names",
+        "peekOfCode": "def test_exact_match_label():\n    m = match_name(\"Anna Maria Eriksson\", \"ERIKSSON\", \"ANNA MARIA\", CFG)\n    assert m[\"label\"] == \"MATCH\"\n    assert m[\"score\"] >= 95\ndef test_partial_match_label():\n    # Prénom manquant -> correspondance partielle.\n    m = match_name(\"Anna Eriksson\", \"ERIKSSON\", \"ANNA MARIA CHARLOTTE\", CFG)\n    assert m[\"label\"] in (\"PARTIAL\", \"MATCH\")  # tolérance, mais pas NO_MATCH\ndef test_no_match_label():\n    m = match_name(\"Jean Dupont\", \"ERIKSSON\", \"ANNA MARIA\", CFG)",
+        "detail": "tests.test_names",
+        "documentation": {}
+    },
+    {
+        "label": "test_partial_match_label",
+        "kind": 2,
+        "importPath": "tests.test_names",
+        "description": "tests.test_names",
+        "peekOfCode": "def test_partial_match_label():\n    # Prénom manquant -> correspondance partielle.\n    m = match_name(\"Anna Eriksson\", \"ERIKSSON\", \"ANNA MARIA CHARLOTTE\", CFG)\n    assert m[\"label\"] in (\"PARTIAL\", \"MATCH\")  # tolérance, mais pas NO_MATCH\ndef test_no_match_label():\n    m = match_name(\"Jean Dupont\", \"ERIKSSON\", \"ANNA MARIA\", CFG)\n    assert m[\"label\"] == \"NO_MATCH\"\n    assert m[\"score\"] < 65\ndef test_accented_form_input_matches_unaccented_mrz():\n    m = match_name(\"Éric Müller\", \"MUELLER\", \"ERIC\", CFG)",
+        "detail": "tests.test_names",
+        "documentation": {}
+    },
+    {
+        "label": "test_no_match_label",
+        "kind": 2,
+        "importPath": "tests.test_names",
+        "description": "tests.test_names",
+        "peekOfCode": "def test_no_match_label():\n    m = match_name(\"Jean Dupont\", \"ERIKSSON\", \"ANNA MARIA\", CFG)\n    assert m[\"label\"] == \"NO_MATCH\"\n    assert m[\"score\"] < 65\ndef test_accented_form_input_matches_unaccented_mrz():\n    m = match_name(\"Éric Müller\", \"MUELLER\", \"ERIC\", CFG)\n    assert m[\"label\"] == \"MATCH\"",
+        "detail": "tests.test_names",
+        "documentation": {}
+    },
+    {
+        "label": "test_accented_form_input_matches_unaccented_mrz",
+        "kind": 2,
+        "importPath": "tests.test_names",
+        "description": "tests.test_names",
+        "peekOfCode": "def test_accented_form_input_matches_unaccented_mrz():\n    m = match_name(\"Éric Müller\", \"MUELLER\", \"ERIC\", CFG)\n    assert m[\"label\"] == \"MATCH\"",
+        "detail": "tests.test_names",
+        "documentation": {}
+    },
+    {
+        "label": "CFG",
+        "kind": 5,
+        "importPath": "tests.test_names",
+        "description": "tests.test_names",
+        "peekOfCode": "CFG = Config()\ndef test_normalize_strips_accents_and_separators():\n    assert normalize_name(\"Éric  De-La Croïx\") == \"ERIC DE LA CROIX\"\n    assert normalize_name(\"ANNA<MARIA<<ERIKSSON\") == \"ANNA MARIA ERIKSSON\"\ndef test_german_transliteration_matches_mrz():\n    # Müller (visuel) vs MUELLER (MRZ) -> doit normaliser pareil.\n    assert normalize_name(\"Müller\") == \"MUELLER\"\n    assert normalize_name(\"Straße\") == \"STRASSE\"\ndef test_order_independent():\n    s = name_similarity(\"Anna Maria Eriksson\", \"ERIKSSON ANNA MARIA\")",
+        "detail": "tests.test_names",
+        "documentation": {}
+    },
+    {
+        "label": "test_valid_passport_matching_name",
+        "kind": 2,
+        "importPath": "tests.test_pipeline",
+        "description": "tests.test_pipeline",
+        "peekOfCode": "def test_valid_passport_matching_name():\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    r = verify_from_mrz(mrz, \"Anna Maria Eriksson\", CFG, today=TODAY)\n    assert r.status == \"VALID\"\n    assert r.score >= CFG.accept_score\n    assert r.mrz_valid\n    assert r.name_match[\"label\"] == \"MATCH\"\n    assert not r.warnings\ndef test_valid_id_card_td1():\n    mrz = synthetic_id_td1(expiry_date=\"300101\")",
+        "detail": "tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_valid_id_card_td1",
+        "kind": 2,
+        "importPath": "tests.test_pipeline",
+        "description": "tests.test_pipeline",
+        "peekOfCode": "def test_valid_id_card_td1():\n    mrz = synthetic_id_td1(expiry_date=\"300101\")\n    r = verify_from_mrz(mrz, \"Anna Maria Eriksson\", CFG, today=TODAY)\n    assert r.status == \"VALID\"\n    assert r.mrz_format == \"TD1\"\n    assert r.name_match[\"label\"] == \"MATCH\"\ndef test_valid_id_card_td2():\n    mrz = synthetic_id_td2(expiry_date=\"300101\")\n    r = verify_from_mrz(mrz, \"Anna Maria Eriksson\", CFG, today=TODAY)\n    assert r.status == \"VALID\"",
+        "detail": "tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_valid_id_card_td2",
+        "kind": 2,
+        "importPath": "tests.test_pipeline",
+        "description": "tests.test_pipeline",
+        "peekOfCode": "def test_valid_id_card_td2():\n    mrz = synthetic_id_td2(expiry_date=\"300101\")\n    r = verify_from_mrz(mrz, \"Anna Maria Eriksson\", CFG, today=TODAY)\n    assert r.status == \"VALID\"\n    assert r.mrz_format == \"TD2\"\ndef test_wrong_name_is_rejected():\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    r = verify_from_mrz(mrz, \"Jean Dupont\", CFG, today=TODAY)\n    assert r.status == \"REJECTED\"\n    assert r.name_match[\"label\"] == \"NO_MATCH\"",
+        "detail": "tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_wrong_name_is_rejected",
+        "kind": 2,
+        "importPath": "tests.test_pipeline",
+        "description": "tests.test_pipeline",
+        "peekOfCode": "def test_wrong_name_is_rejected():\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    r = verify_from_mrz(mrz, \"Jean Dupont\", CFG, today=TODAY)\n    assert r.status == \"REJECTED\"\n    assert r.name_match[\"label\"] == \"NO_MATCH\"\ndef test_tampered_mrz_is_suspect_at_least():\n    mrz = tamper_first_check_digit(synthetic_passport(expiry_date=\"300101\"))\n    r = verify_from_mrz(mrz, \"Anna Maria Eriksson\", CFG, today=TODAY)\n    assert r.status in (\"SUSPECT\", \"REJECTED\")\n    assert not r.mrz_valid",
+        "detail": "tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_tampered_mrz_is_suspect_at_least",
+        "kind": 2,
+        "importPath": "tests.test_pipeline",
+        "description": "tests.test_pipeline",
+        "peekOfCode": "def test_tampered_mrz_is_suspect_at_least():\n    mrz = tamper_first_check_digit(synthetic_passport(expiry_date=\"300101\"))\n    r = verify_from_mrz(mrz, \"Anna Maria Eriksson\", CFG, today=TODAY)\n    assert r.status in (\"SUSPECT\", \"REJECTED\")\n    assert not r.mrz_valid\ndef test_expired_passport_is_suspect():\n    mrz = synthetic_passport(expiry_date=\"120415\")  # expiré\n    r = verify_from_mrz(mrz, \"Anna Maria Eriksson\", CFG, today=TODAY)\n    assert r.status == \"SUSPECT\"\n    assert r.expiry[\"expired\"] is True",
+        "detail": "tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_expired_passport_is_suspect",
+        "kind": 2,
+        "importPath": "tests.test_pipeline",
+        "description": "tests.test_pipeline",
+        "peekOfCode": "def test_expired_passport_is_suspect():\n    mrz = synthetic_passport(expiry_date=\"120415\")  # expiré\n    r = verify_from_mrz(mrz, \"Anna Maria Eriksson\", CFG, today=TODAY)\n    assert r.status == \"SUSPECT\"\n    assert r.expiry[\"expired\"] is True\ndef test_unreadable_mrz_is_rejected():\n    r = verify_from_mrz(\"NOT A MRZ\", \"Anna Eriksson\", CFG, today=TODAY)\n    assert r.status == \"REJECTED\"\n    assert not r.mrz_parsed\n    assert r.errors",
+        "detail": "tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_unreadable_mrz_is_rejected",
+        "kind": 2,
+        "importPath": "tests.test_pipeline",
+        "description": "tests.test_pipeline",
+        "peekOfCode": "def test_unreadable_mrz_is_rejected():\n    r = verify_from_mrz(\"NOT A MRZ\", \"Anna Eriksson\", CFG, today=TODAY)\n    assert r.status == \"REJECTED\"\n    assert not r.mrz_parsed\n    assert r.errors\ndef test_report_is_json_serializable():\n    import json\n    mrz = synthetic_passport()\n    r = verify_from_mrz(mrz, \"Anna Maria Eriksson\", CFG, today=TODAY)\n    json.dumps(r.to_dict())  # ne doit pas lever",
+        "detail": "tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_report_is_json_serializable",
+        "kind": 2,
+        "importPath": "tests.test_pipeline",
+        "description": "tests.test_pipeline",
+        "peekOfCode": "def test_report_is_json_serializable():\n    import json\n    mrz = synthetic_passport()\n    r = verify_from_mrz(mrz, \"Anna Maria Eriksson\", CFG, today=TODAY)\n    json.dumps(r.to_dict())  # ne doit pas lever",
+        "detail": "tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "CFG",
+        "kind": 5,
+        "importPath": "tests.test_pipeline",
+        "description": "tests.test_pipeline",
+        "peekOfCode": "CFG = Config()\nTODAY = date(2026, 6, 6)\ndef test_valid_passport_matching_name():\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    r = verify_from_mrz(mrz, \"Anna Maria Eriksson\", CFG, today=TODAY)\n    assert r.status == \"VALID\"\n    assert r.score >= CFG.accept_score\n    assert r.mrz_valid\n    assert r.name_match[\"label\"] == \"MATCH\"\n    assert not r.warnings",
+        "detail": "tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "TODAY",
+        "kind": 5,
+        "importPath": "tests.test_pipeline",
+        "description": "tests.test_pipeline",
+        "peekOfCode": "TODAY = date(2026, 6, 6)\ndef test_valid_passport_matching_name():\n    mrz = synthetic_passport(expiry_date=\"300101\")\n    r = verify_from_mrz(mrz, \"Anna Maria Eriksson\", CFG, today=TODAY)\n    assert r.status == \"VALID\"\n    assert r.score >= CFG.accept_score\n    assert r.mrz_valid\n    assert r.name_match[\"label\"] == \"MATCH\"\n    assert not r.warnings\ndef test_valid_id_card_td1():",
+        "detail": "tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_store_and_retrieve",
+        "kind": 2,
+        "importPath": "tests.test_storage",
+        "description": "tests.test_storage",
+        "peekOfCode": "def test_store_and_retrieve(tmp_path):\n    v = _vault(tmp_path)\n    rid = v.store(name=\"Anna Maria Eriksson\", report=_report(),\n                  images=[b\"\\xff\\xd8firstimage\", b\"\\xff\\xd8second\"],\n                  registration_date=\"2026-06-06\")\n    assert rid\n    got = v.retrieve(rid)\n    assert got[\"image_count\"] == 2\n    assert got[\"images\"][0] == b\"\\xff\\xd8firstimage\"\n    assert got[\"report\"][\"status\"] == \"VALID\"",
+        "detail": "tests.test_storage",
+        "documentation": {}
+    },
+    {
+        "label": "test_no_plaintext_pii_on_disk",
+        "kind": 2,
+        "importPath": "tests.test_storage",
+        "description": "tests.test_storage",
+        "peekOfCode": "def test_no_plaintext_pii_on_disk(tmp_path):\n    v = _vault(tmp_path)\n    v.store(name=\"Anna Maria Eriksson\", report=_report(),\n            images=[b\"\\xff\\xd8imagecontent\"], registration_date=\"2026-06-06\")\n    blob = b\"\"\n    for dirpath, _, files in os.walk(str(tmp_path / \"archive\")):\n        for f in files:\n            with open(os.path.join(dirpath, f), \"rb\") as fh:\n                blob += fh.read()\n    # Ni le nom ni le numéro de document ne doivent apparaître en clair.",
+        "detail": "tests.test_storage",
+        "documentation": {}
+    },
+    {
+        "label": "test_search_by_name_order_insensitive",
+        "kind": 2,
+        "importPath": "tests.test_storage",
+        "description": "tests.test_storage",
+        "peekOfCode": "def test_search_by_name_order_insensitive(tmp_path):\n    v = _vault(tmp_path)\n    rid = v.store(name=\"Anna Maria Eriksson\", report=_report(),\n                  images=[b\"\\xff\\xd8X\"], registration_date=\"2026-06-06\")\n    # Ordre et casse différents -> même jeton.\n    res = v.search(name=\"eriksson  anna maria\")\n    assert len(res) == 1 and res[0][\"record_id\"] == rid\n    assert v.search(name=\"Jean Dupont\") == []\ndef test_search_by_document_number(tmp_path):\n    v = _vault(tmp_path)",
+        "detail": "tests.test_storage",
+        "documentation": {}
+    },
+    {
+        "label": "test_search_by_document_number",
+        "kind": 2,
+        "importPath": "tests.test_storage",
+        "description": "tests.test_storage",
+        "peekOfCode": "def test_search_by_document_number(tmp_path):\n    v = _vault(tmp_path)\n    v.store(name=\"Anna Maria Eriksson\", report=_report(),\n            images=[b\"\\xff\\xd8X\"], registration_date=\"2026-06-06\")\n    assert len(v.search(document_number=\"L898902C3\")) == 1\ndef test_tampering_is_detected(tmp_path):\n    v = _vault(tmp_path)\n    rid = v.store(name=\"Anna Maria Eriksson\", report=_report(),\n                  images=[b\"\\xff\\xd8XYZ\"], registration_date=\"2026-06-06\")\n    path = os.path.join(str(tmp_path / \"archive\"), rid, \"img_000.enc\")",
+        "detail": "tests.test_storage",
+        "documentation": {}
+    },
+    {
+        "label": "test_tampering_is_detected",
+        "kind": 2,
+        "importPath": "tests.test_storage",
+        "description": "tests.test_storage",
+        "peekOfCode": "def test_tampering_is_detected(tmp_path):\n    v = _vault(tmp_path)\n    rid = v.store(name=\"Anna Maria Eriksson\", report=_report(),\n                  images=[b\"\\xff\\xd8XYZ\"], registration_date=\"2026-06-06\")\n    path = os.path.join(str(tmp_path / \"archive\"), rid, \"img_000.enc\")\n    data = bytearray(open(path, \"rb\").read())\n    data[-1] ^= 0x01                      # on corrompt un octet\n    open(path, \"wb\").write(data)\n    with pytest.raises(IntegrityError):\n        v.retrieve(rid)",
+        "detail": "tests.test_storage",
+        "documentation": {}
+    },
+    {
+        "label": "test_purge_expired",
+        "kind": 2,
+        "importPath": "tests.test_storage",
+        "description": "tests.test_storage",
+        "peekOfCode": "def test_purge_expired(tmp_path):\n    v = _vault(tmp_path, retention_days=0)   # expire immédiatement\n    rid = v.store(name=\"Anna Maria Eriksson\", report=_report(),\n                  images=[b\"\\xff\\xd8X\"], registration_date=\"2020-01-01\")\n    purged = v.purge_expired(today=date(2026, 6, 6))\n    assert purged == 1\n    assert v.search() == []\n    assert not os.path.isdir(os.path.join(str(tmp_path / \"archive\"), rid))\ndef test_audit_trail(tmp_path):\n    v = _vault(tmp_path)",
+        "detail": "tests.test_storage",
+        "documentation": {}
+    },
+    {
+        "label": "test_audit_trail",
+        "kind": 2,
+        "importPath": "tests.test_storage",
+        "description": "tests.test_storage",
+        "peekOfCode": "def test_audit_trail(tmp_path):\n    v = _vault(tmp_path)\n    rid = v.store(name=\"Anna Maria Eriksson\", report=_report(),\n                  images=[b\"\\xff\\xd8X\"], registration_date=\"2026-06-06\",\n                  actor=\"alice\")\n    v.retrieve(rid, actor=\"bob\")\n    trail = v.audit_trail(rid)\n    actions = {e[\"action\"] for e in trail}\n    assert {\"store\", \"retrieve\"} <= actions\n    assert any(e[\"actor\"] == \"bob\" for e in trail)",
+        "detail": "tests.test_storage",
+        "documentation": {}
+    },
+    {
+        "label": "MASTER",
+        "kind": 5,
+        "importPath": "tests.test_storage",
+        "description": "tests.test_storage",
+        "peekOfCode": "MASTER = b\"0123456789abcdef0123456789abcdef\"  # 32 octets\ndef _vault(tmp_path, retention_days=1825):\n    cfg = StorageConfig(root=str(tmp_path / \"archive\"),\n                        retention_days=retention_days)\n    return Vault(cfg, master_key=MASTER)\ndef _report():\n    return verify_from_mrz(synthetic_passport(expiry_date=\"300101\"),\n                           \"Anna Maria Eriksson\")\ndef test_store_and_retrieve(tmp_path):\n    v = _vault(tmp_path)",
+        "detail": "tests.test_storage",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "tools.download_models",
+        "description": "tools.download_models",
+        "peekOfCode": "ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\nDOWNLOADS = [\n    (\"tessdata\", \"ocrb.traineddata\", 1_000_000,\n     \"https://github.com/Shreeshrii/tessdata_ocrb/raw/master/ocrb.traineddata\"),\n    (\"models\", \"face_detection_yunet_2023mar.onnx\", 100_000,\n     \"https://github.com/opencv/opencv_zoo/raw/main/models/\"\n     \"face_detection_yunet/face_detection_yunet_2023mar.onnx\"),\n    (\"models\", \"face_recognition_sface_2021dec.onnx\", 1_000_000,\n     \"https://github.com/opencv/opencv_zoo/raw/main/models/\"\n     \"face_recognition_sface/face_recognition_sface_2021dec.onnx\"),",
+        "detail": "tools.download_models",
+        "documentation": {}
+    },
+    {
+        "label": "DOWNLOADS",
+        "kind": 5,
+        "importPath": "tools.download_models",
+        "description": "tools.download_models",
+        "peekOfCode": "DOWNLOADS = [\n    (\"tessdata\", \"ocrb.traineddata\", 1_000_000,\n     \"https://github.com/Shreeshrii/tessdata_ocrb/raw/master/ocrb.traineddata\"),\n    (\"models\", \"face_detection_yunet_2023mar.onnx\", 100_000,\n     \"https://github.com/opencv/opencv_zoo/raw/main/models/\"\n     \"face_detection_yunet/face_detection_yunet_2023mar.onnx\"),\n    (\"models\", \"face_recognition_sface_2021dec.onnx\", 1_000_000,\n     \"https://github.com/opencv/opencv_zoo/raw/main/models/\"\n     \"face_recognition_sface/face_recognition_sface_2021dec.onnx\"),\n]",
+        "detail": "tools.download_models",
+        "documentation": {}
+    },
+    {
+        "label": "td1",
+        "kind": 5,
+        "importPath": "tools.make_specimen",
+        "description": "tools.make_specimen",
+        "peekOfCode": "td1 = synthetic_id_td1()\nrender_id_card_front(\"samples/specimen_cni_recto.jpg\")\nrender_id_card_back(td1, \"samples/specimen_cni_verso.jpg\")\nprint(\"CNI recto      : samples/specimen_cni_recto.jpg (sans MRZ)\")\nprint(\"CNI verso      : samples/specimen_cni_verso.jpg (MRZ TD1)\")",
+        "detail": "tools.make_specimen",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "tools.purge_expired",
+        "description": "tools.purge_expired",
+        "peekOfCode": "root = os.environ.get(\"KYC_ARCHIVE_DIR\", \"archive\")\nvault = Vault(StorageConfig(root=root))\nn = vault.purge_expired()\nprint(f\"Dossiers purgés : {n}\")",
+        "detail": "tools.purge_expired",
+        "documentation": {}
+    },
+    {
+        "label": "vault",
+        "kind": 5,
+        "importPath": "tools.purge_expired",
+        "description": "tools.purge_expired",
+        "peekOfCode": "vault = Vault(StorageConfig(root=root))\nn = vault.purge_expired()\nprint(f\"Dossiers purgés : {n}\")",
+        "detail": "tools.purge_expired",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "tools.purge_expired",
+        "description": "tools.purge_expired",
+        "peekOfCode": "n = vault.purge_expired()\nprint(f\"Dossiers purgés : {n}\")",
+        "detail": "tools.purge_expired",
+        "documentation": {}
+    }
+]

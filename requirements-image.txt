@@ -1,0 +1,19 @@
+# --- Couche image / OCR (optionnelle) ---
+# Nécessaire uniquement pour `verify --image` (lecture depuis une photo).
+# Le cœur (verify_from_mrz / `demo`) fonctionne sans ces paquets.
+
+opencv-python-headless>=4.9   # traitement d'image, localisation MRZ (sans GUI)
+numpy>=1.26
+Pillow>=10.0
+
+# Moteur OCR — choisis-en UN :
+#
+#  Option A (léger, recommandé pour la MRZ) : Tesseract
+#    pip install pytesseract
+#    + installer le binaire Tesseract :
+#      Windows : https://github.com/UB-Mannheim/tesseract/wiki
+#      Linux   : apt-get install tesseract-ocr
+pytesseract>=0.3.10
+
+#  Option B (pip-only mais lourd, tire PyTorch, ~2 Go RAM) : EasyOCR
+#    pip install easyocr

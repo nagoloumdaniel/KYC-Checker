@@ -1,0 +1,2 @@
+# Outils de développement / tests
+pytest>=8.0

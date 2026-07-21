@@ -1,0 +1,3 @@
+# --- Archivage chiffré (optionnel) ---
+# Chiffrement AES-256-GCM par enveloppe. SQLite est dans la stdlib.
+cryptography>=42

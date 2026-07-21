@@ -1,0 +1,23 @@
+# Exemple : ton app Next.js + le service KYC sur le même réseau Docker.
+# Place ce fichier à la racine de ton projet et adapte le bloc `app`.
+services:
+  kyc-api:
+    build: ./kyc-checker        # chemin vers ce dépôt (Dockerfile du service)
+    image: kyc-checker:latest
+    environment:
+      KYC_API_KEYS: "${KYC_API_KEY}"   # même valeur que côté app
+    # pas de port exposé publiquement : seul le réseau interne y accède
+    expose:
+      - "8000"
+    restart: unless-stopped
+
+  app:
+    build: .                    # ton app Next.js
+    environment:
+      KYC_API_URL: "http://kyc-api:8000"   # appel par nom de service
+      KYC_API_KEY: "${KYC_API_KEY}"
+    ports:
+      - "3000:3000"
+    depends_on:
+      - kyc-api
+    restart: unless-stopped

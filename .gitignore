@@ -1,0 +1,33 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Données sensibles — NE JAMAIS committer de vraies pièces d'identité
+samples/private/
+*.local.*
+
+# Archive chiffrée + clés (NE JAMAIS committer)
+archive/
+*.master.key
+.master.key
+.uvicorn_pid
+
+# Modèles (volumineux, téléchargeables via tools/download_models.py)
+tessdata/*.traineddata
+models/*.onnx
+
+# Images de spécimens générées
+samples/*.jpg
+samples/*.png
+
+# Fichiers temporaires
+_introspect.py
+_debug*.py
+*.tmp
