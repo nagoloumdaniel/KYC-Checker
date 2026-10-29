@@ -10,7 +10,6 @@
 ![Python](https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-[![CI](https://github.com/nagoloumdaniel/KYC-Checker/actions/workflows/ci.yml/badge.svg)](https://github.com/nagoloumdaniel/KYC-Checker/actions/workflows/ci.yml)
 ![Licence](https://img.shields.io/badge/licence-tous%20droits%20r%C3%A9serv%C3%A9s-lightgrey)
 
 <img src="docs/assets/demo-overview.png" alt="Spécimen de passeport synthétique et sortie réelle de python -m kyc demo : cas valide, MRZ falsifiée, nom non concordant" width="900">
@@ -262,7 +261,7 @@ erDiagram
 .\.venv\Scripts\python.exe -m pytest -q
 ```
 
-Recomptage du 2026-10-29 dans un venv neuf (Python 3.14.7, sans Tesseract ni modèles de visage) : **50 tests collectés, 42 passent, 8 sont ignorés, 0 échec**. Les 8 ignorés (OCR et modèles de visage indisponibles) couvrent le chemin image, la comparaison de visage et l'archivage via l'API : ils n'ont pas été exécutés dans cet environnement, leur état n'y est donc pas démontré. La CI GitHub exécute la même suite dans les mêmes conditions (sans Tesseract).
+Recomptage du 2026-10-29 dans un venv neuf (Python 3.14.7, sans Tesseract ni modèles de visage) : **50 tests collectés, 42 passent, 8 sont ignorés, 0 échec**. Les 8 ignorés (OCR et modèles de visage indisponibles) couvrent le chemin image, la comparaison de visage et l'archivage via l'API : ils n'ont pas été exécutés dans cet environnement, leur état n'y est donc pas démontré.
 
 ## Défis rencontrés
 
@@ -291,6 +290,7 @@ Recomptage du 2026-10-29 dans un venv neuf (Python 3.14.7, sans Tesseract ni mod
 - [x] Archivage chiffré, index, journal d'audit.
 - [x] Comparaison de visage et heuristiques de falsification.
 - [x] Authentification API par clé.
+- [ ] Intégration continue (workflow pytest).
 - [ ] Rate limiting.
 - [ ] KMS pour la clé maître.
 - [ ] Entrée PDF.
